@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "eg-phone-001",
+    "name": "سامسونج جلاكسي S24 ألترا 512 جيجابايت 5G",
+    "slug": "samsung-galaxy-s24-ultra-512gb",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "shortDescription": "هاتف رائد بإطار من التيتانيوم وشاشة 6.8 بوصة وقلم S Pen مدمج وتقنيات الذكاء الاصطناعي Galaxy AI.",
+    "description": "يعتبر سامسونج جلاكسي S24 ألترا قمة التطور في هواتف الأندرويد، بفضل معالج Snapdragon 8 Gen 3 المصمم خصيصاً لجلاكسي وكاميرا بدقة 200 ميجابكسل مع تقريب بصري هجين متطور.",
+    "price": 62500,
+    "originalPrice": 68000,
+    "discountPercent": 8,
+    "rating": 4.9,
+    "reviewCount": 420,
+    "reviewsCount": 420,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.8 بوصة Dynamic AMOLED 2X بتردد 120Hz",
+      "المعالج": "Qualcomm Snapdragon 8 Gen 3",
+      "الذاكرة والتخزين": "12 جيجابايت رام / 512 جيجابايت",
+      "الكاميرا الخلفية": "200 + 50 + 12 + 10 ميجابكسل",
+      "البطارية": "5000 ملّي أمبير مع شحن سريع 45 واط"
+    },
+    "specs": {
+      "الشاشة": "6.8 بوصة Dynamic AMOLED 2X بتردد 120Hz",
+      "المعالج": "Qualcomm Snapdragon 8 Gen 3",
+      "الذاكرة والتخزين": "12 جيجابايت رام / 512 جيجابايت",
+      "الكاميرا الخلفية": "200 + 50 + 12 + 10 ميجابكسل",
+      "البطارية": "5000 ملّي أمبير مع شحن سريع 45 واط"
+    },
+    "pros": [
+      "إطار تيتانيوم قوي وأنيق",
+      "أداء ممتازة في التصوير بفضل الذكاء الاصطناعي",
+      "قلم S Pen مدمج لإنتاجية عالية"
+    ],
+    "cons": [
+      "حجم كبير ووزن ثقيل نسبياً",
+      "لا يوجد رأس شاحن في العلبة"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 62500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني داخل مصر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 63999,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "تطبق رسوم الشحن",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 62900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل سريع خلال 24 ساعة",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-002",
+    "name": "آبل آيفون 15 بروماكس 256 جيجابايت",
+    "slug": "apple-iphone-15-pro-max-256gb",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "shortDescription": "هاتف آبل الأقوى بهيكل التيتانيوم وشريحة A17 Pro وزر الأكشن المخصص.",
+    "description": "يتميز iPhone 15 Pro Max بكاميرا جديدة بدقة 48 ميجابكسل مع تقريب بصري 5x وتصميم أخف وزناً بفضل التيتانيوم ومعدل تحديث 120Hz لشاشة Super Retina XDR.",
+    "price": 68500,
+    "originalPrice": 74000,
+    "discountPercent": 7,
+    "rating": 4.9,
+    "reviewCount": 510,
+    "reviewsCount": 510,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.7 بوصة Super Retina XDR OLED",
+      "المعالج": "Apple A17 Pro (3nm)",
+      "الذاكرة والتخزين": "8 جيجابايت رام / 256 جيجابايت",
+      "الكاميرا": "48 + 12 + 12 ميجابكسل مع زووم 5x",
+      "المنفذ": "USB Type-C 3.0"
+    },
+    "specs": {
+      "الشاشة": "6.7 بوصة Super Retina XDR OLED",
+      "المعالج": "Apple A17 Pro (3nm)",
+      "الذاكرة والتخزين": "8 جيجابايت رام / 256 جيجابايت",
+      "الكاميرا": "48 + 12 + 12 ميجابكسل مع زووم 5x",
+      "المنفذ": "USB Type-C 3.0"
+    },
+    "pros": [
+      "أداء خارق للالعاب والمهمات الثقيلة",
+      "جودة تصوير فيديو لا تضاهى",
+      "انتقال إلى منفذ USB-C العالمي"
+    ],
+    "cons": [
+      "سعر مرتفع في السوق المصري",
+      "سرعة الشحن أبطأ من المنافسين"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 68500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 69900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن محلي سريح",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 68900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل نون إكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-003",
+    "name": "شاومي 14 ألترا 512 جيجابايت 5G",
+    "slug": "xiaomi-14-ultra-512gb",
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "shortDescription": "وحش التصوير بالتعاون مع Leica وحساس بمقاس 1 بوصة الكامل.",
+    "description": "يقدم Xiaomi 14 Ultra تجربة احترافية في عالم التصوير مع عدسات لايكا الألمانية وأربعة كاميرات بدقة 50 ميجابكسل وشاشة AMOLED بدقة WQHD+.",
+    "price": 54000,
+    "originalPrice": 59000,
+    "discountPercent": 8,
+    "rating": 4.8,
+    "reviewCount": 180,
+    "reviewsCount": 180,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.73 بوصة LTPO AMOLED 120Hz",
+      "المعالج": "Snapdragon 8 Gen 3",
+      "الرام والذاكرة": "16 جيجابايت / 512 جيجابايت",
+      "الكاميرات": "4 كاميرات 50 ميجابكسل Leica",
+      "الشحن": "90 واط سلكي / 80 واط لاسلكي"
+    },
+    "pros": [
+      "أفضل نظام كاميرات للتصوير الفوتوغرافي",
+      "شحن سريع جداً سلكي ولاسلكي",
+      "شاشة مبهرة السطوع والألوان"
+    ],
+    "cons": [
+      "بروز كبير لنظام الكاميرات خلف الهاتف"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 54000,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 55200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل خلال 3 أيام",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 54500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-004",
+    "name": "سامسونج جلاكسي A55 5G 256 جيجابايت",
+    "slug": "samsung-galaxy-a55-5g-256gb",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "shortDescription": "ملك الفئة المتوسطة بهيكل زجاجي وإطار معدني ومقاومة الماء IP67.",
+    "description": "يأتي Galaxy A55 5G بشاشة Super AMOLED سلسة ومعالج Exynos 1480 المتطور مع بطارية ضخمة 5000 ملّي أمبير وتصوير ثريبيل كاميرا بدقة 50 ميجابكسل مع مثبت بصري OIS.",
+    "price": 21500,
+    "originalPrice": 24000,
+    "discountPercent": 10,
+    "rating": 4.7,
+    "reviewCount": 630,
+    "reviewsCount": 630,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.6 بوصة Super AMOLED 120Hz",
+      "المعالج": "Exynos 1480 (4nm)",
+      "الذاكرة": "8 جيجابايت رام / 256 جيجابايت",
+      "مقاومة الماء": "معيار IP67 حتى عمق 1 متر",
+      "البطارية": "5000 ملّي أمبير"
+    },
+    "pros": [
+      "خامات تصنيع ممتازة مع إطار معدني",
+      "دعم مقاومة الماء والغبار IP67",
+      "تحديثات نظام ممتدة لعدة سنوات"
+    ],
+    "cons": [
+      "حواف الشاشة بارزة قليلاً",
+      "الشاحن غير مرفق"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 21500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 21999,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 21700,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل خلال يومين",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-005",
+    "name": "شاومي ريدمي نوت 13 برو بلس 5G 512 جيجابايت",
+    "slug": "xiaomi-redmi-note-13-pro-plus-5g",
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "shortDescription": "شاشة منحنية وكاميرا 200 ميجابكسل وشحن صاروخي 120 واط.",
+    "description": "يتميز Redmi Note 13 Pro+ 5G بشاشة AMOLED منحنية الأطراف بدقة 1.5K وشاحن سريعة للغاية يشحن البطارية بالكامل في حوالي 19 دقيقة فقط.",
+    "price": 22800,
+    "originalPrice": 25500,
+    "discountPercent": 10,
+    "rating": 4.8,
+    "reviewCount": 390,
+    "reviewsCount": 390,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.67 بوصة AMOLED منحنية 1.5K 120Hz",
+      "المعالج": "MediaTek Dimensity 7200 Ultra",
+      "الذاكرة": "12 جيجابايت رام / 512 جيجابايت",
+      "الكاميرا": "200 ميجابكسل مع OIS",
+      "الشاحن": "120 واط مرفق في العلبة"
+    },
+    "pros": [
+      "شاحن 120W خرافي مرفق في العلبة",
+      "تصميم شاشة منحنية راقٍ جداً",
+      "مقاومة ماء IP68 كاملة"
+    ],
+    "cons": [
+      "واجهة أندرويد بها بعض التطبيقات المثبتة مسبقاً"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 22800,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 23400,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 22950,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-006",
+    "name": "ريلمي 12 برو بلس 5G 512 جيجابايت",
+    "slug": "realme-12-pro-plus-5g",
+    "category": "Smartphones",
+    "brand": "Realme",
+    "shortDescription": "كاميرا بريسكوب للتقريب البصري وتصميم فاخر مستوحى من الساعات السويسرية.",
+    "description": "يقدم Realme 12 Pro+ كاميرا تقريب بيريستروب بدقة 64 ميجابكسل هي الأولى من نوعها في هذه الفئة السعرية، بالإضافة إلى خلفية من الجلد الناعم الجذاب.",
+    "price": 20900,
+    "originalPrice": 23500,
+    "discountPercent": 11,
+    "rating": 4.7,
+    "reviewCount": 280,
+    "reviewsCount": 280,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.7 بوصة AMOLED منحنية 120Hz",
+      "المعالج": "Snapdragon 7s Gen 2",
+      "الذاكرة": "12 جيجابايت / 512 جيجابايت",
+      "الكاميرا": "50 + 64 (Periscope 3x) + 8 ميجابكسل",
+      "الشحن": "67 واط SUPERVOOC"
+    },
+    "pros": [
+      "عدسة زووم بيريستروب احترافية للبورتريه",
+      "تصميم جلد فاخر ومريح باليد",
+      "شاشة أنيقة حوافها ناعمة"
+    ],
+    "cons": [
+      "سماعات السبيكر متوسطة العلو"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 20900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 21500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 21000,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل خلال يومين",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-007",
+    "name": "أوبو رينو 11 برو 5G 512 جيجابايت",
+    "slug": "oppo-reno-11-pro-5g",
+    "category": "Smartphones",
+    "brand": "OPPO",
+    "shortDescription": "خبير البورتريه مع معالج Dimensity 8200 وشحن 80 واط.",
+    "description": "يأتي OPPO Reno 11 Pro بخيارات ألوان مستوحاة من الطبيعة وكاميرا بورتريه متخصصة مع شريحة معالجة صور متطورة لتصوير الأشخاص بدقة سينمائية.",
+    "price": 24200,
+    "originalPrice": 27000,
+    "discountPercent": 10,
+    "rating": 4.6,
+    "reviewCount": 195,
+    "reviewsCount": 195,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.7 بوصة OLED 120Hz",
+      "المعالج": "MediaTek Dimensity 8200",
+      "الذاكرة": "12 جيجابايت / 512 جيجابايت",
+      "الكاميرات": "50 + 32 (البورتريه) + 8 ميجابكسل",
+      "الشحن": "80W SUPERVOOC"
+    },
+    "pros": [
+      "نتائج صور البورتريه ممتازة جداً",
+      "سريع الاستجابة والتنقل في النظام",
+      "وزن خفيف وسمك نحيف"
+    ],
+    "cons": [
+      "سعة البطارية 4600 ملّي أمبير أصل من بعض المنافسين"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 24200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 24900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 24400,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-008",
+    "name": "هونر 200 برو 512 جيجابايت 5G",
+    "slug": "honor-200-pro-512gb",
+    "category": "Smartphones",
+    "brand": "Honor",
+    "shortDescription": "كاميرا استوديو هاركورت للبورتريه ومعالج Snapdragon 8s Gen 3.",
+    "description": "تم تطوير نظام التصوير في Honor 200 Pro بالشراكة مع استوديو Studio Harcourt الباريسي لتقديم أفضل صور بورتريه ضوئية في الهواتف الذكية.",
+    "price": 28500,
+    "originalPrice": 31500,
+    "discountPercent": 9,
+    "rating": 4.8,
+    "reviewCount": 160,
+    "reviewsCount": 160,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.78 بوصة OLED 120Hz عالية حماية العين",
+      "المعالج": "Qualcomm Snapdragon 8s Gen 3",
+      "الذاكرة": "12 جيجابايت / 512 جيجابايت",
+      "الشحن": "100W سلكي / 66W لاسلكي",
+      "البطارية": "5200 ملّي أمبير كربونية"
+    },
+    "pros": [
+      "تقنية تصوير البورتريه الضوئية الفاخرة",
+      "شاشة مريحة للغاية للعين بتقنية PWM 3840Hz",
+      "دعم الشحن اللاسلكي السريع"
+    ],
+    "cons": [
+      "تصميم الكاميرا الخلفية غير متناظر قد لا يعجب الجميع"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 28500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 29200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن جوميا",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 28700,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن نون المباشر",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-009",
+    "name": "آبل آيفون 13 سعة 128 جيجابايت",
+    "slug": "apple-iphone-13-128gb",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "shortDescription": "الأكثر طلباً وتوفيراً بقوة معالج A15 Bionic وكاميرات متميزة.",
+    "description": "يقدم iPhone 13 المعادلة المثالية بين القيمة والسعر في هواتف آبل مع بطارية ممتازة وشاشة Super Retina XDR ونظام تصوير سينمائي عالي الجودة.",
+    "price": 31000,
+    "originalPrice": 35000,
+    "discountPercent": 11,
+    "rating": 4.8,
+    "reviewCount": 850,
+    "reviewsCount": 850,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.1 بوصة Super Retina XDR OLED",
+      "المعالج": "Apple A15 Bionic",
+      "السعة": "128 جيجابايت",
+      "الكاميرات": "مزدوجة 12 + 12 ميجابكسل مع OIS",
+      "مقاومة الماء": "IP68"
+    },
+    "pros": [
+      "قيمة ممتازة مقابل السعر في فئة الآيفون",
+      "أداء قوي وسلس لعدة سنوات قادمة",
+      "حجم مدمج ومريح باليد"
+    ],
+    "cons": [
+      "الشاشة بتردد 60Hz فقط",
+      "منفذ Lightning القديم"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 31000,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 31900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل خلال يومين",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 31200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-010",
+    "name": "سامسونج جلاكسي S23 FE 256 جيجابايت",
+    "slug": "samsung-galaxy-s23-fe-256gb",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "shortDescription": "تجربة الفئة الرائدة بسعر مناسب مع كاميرا زووم ومقاومة الماء.",
+    "description": "نسخة المعجبين Galaxy S23 FE تقدم تجربة الهواتف الرائدة بسعر متوسط، مع شاشة Dynamic AMOLED 2X وكاميرات متطورة تشمل عدسة زووم 3x حقيقية.",
+    "price": 27900,
+    "originalPrice": 31000,
+    "discountPercent": 10,
+    "rating": 4.6,
+    "reviewCount": 230,
+    "reviewsCount": 230,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.4 بوصة Dynamic AMOLED 2X 120Hz",
+      "المعالج": "Exynos 2200 (4nm)",
+      "الذاكرة": "8 جيجابايت / 256 جيجابايت",
+      "الكاميرات": "50 + 8 (Telephoto) + 12 ميجابكسل",
+      "الميزات": "شحن لاسلكي ومقاومة IP68"
+    },
+    "pros": [
+      "وجود عدسة تليفوتو حقيقية لتقريب الصور",
+      "دعم الشحن اللاسلكي ومقاومة ماء IP68",
+      "شاشة ممتازة وألوان واقعية"
+    ],
+    "cons": [
+      "استهلاك البطارية متوسط تحت الاستخدام المكثف"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 27900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 28500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 28100,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن سريع",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-011",
+    "name": "ريلمي C67 سعة 256 جيجابايت",
+    "slug": "realme-c67-256gb",
+    "category": "Smartphones",
+    "brand": "Realme",
+    "shortDescription": "أفضل خيار اقتصادي بكاميرا 108 ميجابكسل ومعالج Snapdragon 685.",
+    "description": "يقدم Realme C67 مواصفات منافسة جداً في الفئة الاقتصادية بسعة 256 جيجابايت وشاشة بسطوع مرتفع وذاكرة عشوائية واسعة مع شاحن 33 واط.",
+    "price": 8200,
+    "originalPrice": 9500,
+    "discountPercent": 13,
+    "rating": 4.5,
+    "reviewCount": 410,
+    "reviewsCount": 410,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.72 بوصة FHD+ 90Hz",
+      "المعالج": "Qualcomm Snapdragon 685",
+      "الذاكرة": "8 جيجابايت رام / 256 جيجابايت",
+      "الكاميرا": "108 ميجابكسل رئيسية",
+      "البطارية": "5000 ملّي أمبير + شحن 33W"
+    },
+    "pros": [
+      "مساحة تخزين ضخمة 256GB في هذه الفئة",
+      "كاميرا بدقة 108MP تفاصيلها جيدة",
+      "سماعات ستيريو وشاحن سريع بالعلبة"
+    ],
+    "cons": [
+      "لا يدعم شبكات الجيل الخامس 5G"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 8200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 8450,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 8290,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-012",
+    "name": "شاومي ريدمي 13C سعة 128 جيجابايت",
+    "slug": "xiaomi-redmi-13c-128gb",
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "shortDescription": "هاتف اقتصادي بشاشة كبيرة 90Hz وبطارية يومين متواصلين.",
+    "description": "يعتبر Redmi 13C الاختيار العملي اليومي بشاشة كبيرة وسلسة وبطارية يدوم شحنها لفترات طويلة مع تصميم عصري وبصمة إصبع جانبية سريعة.",
+    "price": 6100,
+    "originalPrice": 7000,
+    "discountPercent": 12,
+    "rating": 4.4,
+    "reviewCount": 520,
+    "reviewsCount": 520,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.74 بوصة HD+ 90Hz",
+      "المعالج": "MediaTek Helio G85",
+      "الذاكرة": "6 جيجابايت رام / 128 جيجابايت",
+      "الكاميرا": "50 ميجابكسل مزدوجة",
+      "البطارية": "5000 ملّي أمبير"
+    },
+    "pros": [
+      "سعر اقتصادي جداً ومناسب للجميع",
+      "شاشة كبيرة 90Hz مريحة في التصفح",
+      "عمر بطارية ممتاز"
+    ],
+    "cons": [
+      "دقة الشاشة HD+ فقط",
+      "سرعة الشحن المرفق 10 واط فقط"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 6100,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 6250,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 6150,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-013",
+    "name": "فيفو V30 5G سعة 256 جيجابايت",
+    "slug": "vivo-v30-5g-256gb",
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "shortDescription": "إضاءة Aura Light المبتكرة للبورتريه وشاشة AMOLED منحنية.",
+    "description": "يتميز هاتف vivo V30 بكاميرات سيلفي وبورتريه احترافية مدعومة بحلقة إضاءة حارة/باردة ذكية (Aura Light) وشاشة شاطئية منحنية فائقة الأناقة.",
+    "price": 20500,
+    "originalPrice": 22800,
+    "discountPercent": 10,
+    "rating": 4.7,
+    "reviewCount": 175,
+    "reviewsCount": 175,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.78 بوصة AMOLED 1.5K 120Hz",
+      "المعالج": "Snapdragon 7 Gen 3",
+      "الذاكرة": "12 جيجابايت / 256 جيجابايت",
+      "الكاميرات": "50 + 50 ميجابكسل خلفية وأمامية",
+      "الشحن": "80 واط FlashCharge"
+    },
+    "pros": [
+      "حلقة Aura Light مفيدة جداً لتصوير البورتريه ليلاً",
+      "كاميرا سيلفي بدقة 50MP بزاوية واسعة",
+      "تصميم نحيف وجذاب جداً"
+    ],
+    "cons": [
+      "سماعة سبيكر احادية فقط"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 20500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 21100,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 20700,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل خلال يومين",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-014",
+    "name": "سامسونج جلاكسي A15 سعة 128 جيجابايت",
+    "slug": "samsung-galaxy-a15-128gb",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "shortDescription": "شاشة Super AMOLED بدقة FHD+ بسعر اقتصادي مذهل.",
+    "description": "ينقل Galaxy A15 تجربة الشاشات العالية الجودة Super AMOLED إلى الفئة الاقتصادية، مع معالج Helio G99 وكاميرا بدقة 50 ميجابكسل.",
+    "price": 6800,
+    "originalPrice": 7600,
+    "discountPercent": 10,
+    "rating": 4.5,
+    "reviewCount": 490,
+    "reviewsCount": 490,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.5 بوصة Super AMOLED 90Hz FHD+",
+      "المعالج": "MediaTek Helio G99",
+      "الذاكرة": "4 جيجابايت رام / 128 جيجابايت",
+      "الكاميرا": "50 + 5 + 2 ميجابكسل",
+      "البطارية": "5000 ملّي أمبير + 25W"
+    },
+    "pros": [
+      "أفضل شاشة Super AMOLED في هذه الفئة السعرية",
+      "معالج Helio G99 متزن في الأداء والألعاب",
+      "دعم التحديثات الأمنية من سامسونج"
+    ],
+    "cons": [
+      "الشاحن غير مرفق بالعلبة",
+      "حافة الشاشة السفلية سميكة"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 6800,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 6990,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 6850,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-phone-015",
+    "name": "إنفينيكس نوت 40 برو 256 جيجابايت",
+    "slug": "infinix-note-40-pro-256gb",
+    "category": "Smartphones",
+    "brand": "Infinix",
+    "shortDescription": "شحن مغناطيسي لاسلكي وشاشة منحنية 120Hz بسعر منافس.",
+    "description": "يقدم Infinix Note 40 Pro تقنية الشحن اللاسلكي MagCharge مع شاحن وشاحن مغناطيسي مرفق في العلبة بالإضافة إلى شاشة AMOLED منحنية وسماعات من JBL.",
+    "price": 12800,
+    "originalPrice": 14500,
+    "discountPercent": 11,
+    "rating": 4.6,
+    "reviewCount": 210,
+    "reviewsCount": 210,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "6.78 بوصة AMOLED منحنية 120Hz",
+      "المعالج": "MediaTek Helio G99 Ultimate",
+      "الذاكرة": "12 جيجابايت / 256 جيجابايت",
+      "الشحن": "70W سلكي / 20W لاسلكي MagCharge",
+      "الصوت": "سماعات ستيريو ضبط JBL"
+    },
+    "pros": [
+      "مرفق معه شاحن لاسلكي وسلسلة ملحقات بالعلبة",
+      "شاشة منحنية راقية بدقة ألوان ممتازة",
+      "صوت ستيريو نقي جداً بتعديل JBL"
+    ],
+    "cons": [
+      "الكاميرا الثانوية غير مفيدة بشكل كبير"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 12800,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 13200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 12950,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-016",
+    "name": "ساعة آبل الذكية Apple Watch Series 9 GPS 45mm",
+    "slug": "apple-watch-series-9-gps-45mm",
+    "category": "Smart Watches",
+    "brand": "Apple",
+    "shortDescription": "شريحة S9 وإيماءة الضغط المزدوج Double Tap وشاشة فائقة السطوع.",
+    "description": "تقدم Apple Watch Series 9 أداء أسرع وتتبع دقيق للمؤشرات الصحية والنوم مع إمكانية استخدام إيماءة الأصابع للرد على المكالمات وإيقاف المؤقت بسهولة.",
+    "price": 22500,
+    "originalPrice": 25000,
+    "discountPercent": 10,
+    "rating": 4.9,
+    "reviewCount": 310,
+    "reviewsCount": 310,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "المقاس": "45 ملم هيكل ألومنيوم",
+      "الشاشة": "Always-On Retina بوضوح 2000 nits",
+      "المعالج": "Apple S9 SiP",
+      "المستشعرات": "تخطيط القلب ECG، الأكسجين بالدم SpO2، درجة الحرارة",
+      "مقاومة الماء": "حتى عمق 50 متر"
+    },
+    "pros": [
+      "خاصية النقر المزدوج Double Tap السحرية",
+      "دقة عالية جداً في قياسات اللياقة والصحة",
+      "تكامل تام مع أجهزة آيفون"
+    ],
+    "cons": [
+      "البطارية تحتاج شحن يومي",
+      "لا تعمل مع هواتف الأندرويد"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 22500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 23100,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 22700,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-017",
+    "name": "سامسونج جلاكسي واش 6 كلاسييك 47mm",
+    "slug": "samsung-galaxy-watch-6-classic-47mm",
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "shortDescription": "إطار دوار كلاسيكي وشاشة كبيرة وتتبع احترافي للنوم وتكوين الجسم.",
+    "description": "تعود السلسلة الكلاسيكية من سامسونج بالإطار الميكانيكي الدوار الأيقوني، مع شاشة كريستال ياقوتي ومستشعر BioActive لتحليل نسبة الدهون والعضلات بالجسم.",
+    "price": 16800,
+    "originalPrice": 19000,
+    "discountPercent": 11,
+    "rating": 4.8,
+    "reviewCount": 240,
+    "reviewsCount": 240,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "المقاس": "47 ملم زجاج Sapphire Crystal",
+      "النظام": "Wear OS Powered by Samsung",
+      "الشاشة": "1.5 بوصة Super AMOLED 2000 nits",
+      "المستشعرات": "BIA لقياس مكونات الجسم، ضغط الدم، ECG",
+      "المقاومة": "IP68 / 5ATM / MIL-STD-810H"
+    },
+    "pros": [
+      "إطار دوار ممتع للغاية وسهل في التحكم",
+      "شاشة كبيرة بوضوح عالي تحت الشمس",
+      "دعم كامل لتطبيقات متجر Google Play"
+    ],
+    "cons": [
+      "بطارية تدوم حوالي 30 إلى 40 ساعة فقط"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 16800,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 17300,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 16950,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-018",
+    "name": "آبل آبل واتش ألترا 2 GPS + Cellular 49mm",
+    "slug": "apple-watch-ultra-2-49mm",
+    "category": "Smart Watches",
+    "brand": "Apple",
+    "shortDescription": "ساعة الرياضيين والاستكشاف بهيكل تيتانيوم وشاشة 3000 nits وبطارية 72 ساعة.",
+    "description": "صممت Apple Watch Ultra 2 للظروف القاسية والرياضات الشاقة مع نظام GPS مزدوج التردد فائق الدقة وبوصلة متطورة وزر حركة مخصص باللون البرتقالي.",
+    "price": 43000,
+    "originalPrice": 47000,
+    "discountPercent": 8,
+    "rating": 4.9,
+    "reviewCount": 150,
+    "reviewsCount": 150,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "المقاس": "49 ملم تيتانيوم من الدرجة الفضائية",
+      "الشاشة": "3000 nits سطوع قياسي",
+      "المقاومة": "مقاومة للغوص حتى عمق 40 متر (EN13319)",
+      "البطارية": "حتى 36 ساعة شحن عادي / 72 ساعة نمط توفير الطاقة",
+      "الاتصال": "دعم الشريحة المدمجة eSIM Cellular"
+    },
+    "pros": [
+      "صلابة فائقة وهيكل تيتانيوم متين جداً",
+      "أقوى سطوع شاشة في أي ساعة ذكية 3000 nits",
+      "عمر بطارية مضاعف مقارنة بالساعات العادية"
+    ],
+    "cons": [
+      "حجم كبير قد لا يناسب المعاصم الصغرى",
+      "سعر مرتفع"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 43000,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 44200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 43500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-019",
+    "name": "شاومي واتش 2 برو LTE",
+    "slug": "xiaomi-watch-2-pro-lte",
+    "category": "Smart Watches",
+    "brand": "Xiaomi",
+    "shortDescription": "نظام Wear OS ومعالج Snapdragon W5+ Gen 1 وهيكل ستانلس ستيل.",
+    "description": "تدمج Xiaomi Watch 2 Pro بين أناقة الساعات الفاخرة وقوة نظام جوجل Wear OS لدعم خرائط جوجل والمدفوعات والمكالمات المستقلة عبر الاتصال الخلوي.",
+    "price": 11500,
+    "originalPrice": 13000,
+    "discountPercent": 11,
+    "rating": 4.6,
+    "reviewCount": 130,
+    "reviewsCount": 130,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الهيكل": "ستانلس ستيل الفولاذ المقاوم للصدأ",
+      "المعالج": "Snapdragon W5+ Gen 1 (4nm)",
+      "النظام": "Google Wear OS",
+      "الشاشة": "1.43 بوصة AMOLED 466x466",
+      "الميزات": "إجراء المكالمات والملاحة وتطبيقات جوجل"
+    },
+    "pros": [
+      "دعم متجر متكامل لتطبيقات Wear OS",
+      "خامات تصنيع ستانلس ستيل راقية",
+      "سعر منافس لساعة تعمل بنظام Wear OS"
+    ],
+    "cons": [
+      "البطارية تحتاج شحن كل يومين"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 11500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 11900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 11650,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-020",
+    "name": "هواوي واتش GT 4 مقاس 46mm",
+    "slug": "huawei-watch-gt-4-46mm",
+    "category": "Smart Watches",
+    "brand": "Huawei",
+    "shortDescription": "بطارية تدوم 14 يوماً وتصميم مثمن الأضلاع الأنيق مع نظام TruSeen 5.5+.",
+    "description": "تتميز HUAWEI WATCH GT 4 بتصميم هندسي فريد وعمر بطارية أسطوري يصل إلى أسبوعين كاملين وتتبع دقيق لمؤشرات القلب والتمارين الرياضية.",
+    "price": 10500,
+    "originalPrice": 12000,
+    "discountPercent": 12,
+    "rating": 4.8,
+    "reviewCount": 380,
+    "reviewsCount": 380,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "المقاس": "46 ملم تصميم كلاسيكي مثمن",
+      "البطارية": "تصل حتى 14 يوماً استخدام",
+      "المستشعرات": "TruSeen 5.5+ للقلب وTruSleep 3.0 للنوم",
+      "التوافق": "تعمل بكفاءة مع أندرويد وآيفون iOS",
+      "المقاومة": "5ATM مقاومة للماء"
+    },
+    "pros": [
+      "عمر بطارية استثنائي يصل 14 يوماً",
+      "تصميم راقٍ جداً يشبه الساعات السويسرية",
+      "تطبيق Huawei Health دقيق ومتكامل"
+    ],
+    "cons": [
+      "متجر التطبيقات أقل تنوعاً مقارنة بجوجل وآبل"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 10500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 10850,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن محلي",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 10600,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-021",
+    "name": "أميزفيت بالانس الذكية Amazfit Balance",
+    "slug": "amazfit-balance-smart-watch",
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "shortDescription": "تتبع سلامة الجسم والنوم بالذكاء الاصطناعي وبطارية 14 يوماً وشاشة HD AMOLED.",
+    "description": "تساعدك ساعة Amazfit Balance على تحقيق التوازن بين العمل واللياقة والراحة من خلال قياس التعافي البدني والذهني يومياً مع GPS ثنائي النطاق.",
+    "price": 9200,
+    "originalPrice": 10500,
+    "discountPercent": 12,
+    "rating": 4.7,
+    "reviewCount": 160,
+    "reviewsCount": 160,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "1.5 بوصة HD AMOLED 1500 nits",
+      "البطارية": "حتى 14 يوماً استخدام عادي",
+      "الوزن": "35 جرام خفيفة الوزن",
+      "GPS": "نظام تتبع جغرافي مزدوج النطاق 6 أقمار",
+      "المستشعرات": "تحليل التركيب البدني وتتبع النوم الجسدي والذهني"
+    },
+    "pros": [
+      "ميزة مؤشر الجاهزية Readiness للتمارين",
+      "عمر بطارية طويل وخفيفة جداً باليد",
+      "دقة عالية في تتبع المسارات وGPS"
+    ],
+    "cons": [
+      "إجراء المكالمات يعتمد على الاقتران بالبلوتوث"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 9200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 9500,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 9300,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-022",
+    "name": "أميزفيت GTS 4 ميني Amazfit GTS 4 Mini",
+    "slug": "amazfit-gts-4-mini",
+    "category": "Smart Watches",
+    "brand": "Amazfit",
+    "shortDescription": "ساعة فائقة النحافة بوزن 19 جرام وشاشة AMOLED وبطارية 15 يوماً.",
+    "description": "تجمع Amazfit GTS 4 Mini بين الحجم المدمج والأنيق مع أكثر من 120 نمط رياضي وتتبع مستمر لنبضات القلب والأكسجين بالدم والتغييرات المزاجية.",
+    "price": 4200,
+    "originalPrice": 4800,
+    "discountPercent": 12,
+    "rating": 4.6,
+    "reviewCount": 290,
+    "reviewsCount": 290,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "1.65 بوصة HD AMOLED",
+      "السمك والوزن": "9.15 ملم / 19 جرام بدون الحزام",
+      "البطارية": "15 يوماً استخدام منتظم",
+      "الرياضة": "120+ وضع رياضي مع التعرف التلقائي",
+      "المقاومة": "5ATM للسباحة"
+    },
+    "pros": [
+      "خفيفة جداً لدرجة عدم الشعور بها في اليد",
+      "شاشة ألوانها زاهية بدقة AMOLED",
+      "سعر ممتاز وسهل في المتناول"
+    ],
+    "cons": [
+      "لا تحتوي على ميكروفون للرد على المكالمات"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 4200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 4350,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 4250,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-023",
+    "name": "سامسونج جلاكسي واش FE مقاس 40mm",
+    "slug": "samsung-galaxy-watch-fe-40mm",
+    "category": "Smart Watches",
+    "brand": "Samsung",
+    "shortDescription": "ساعة سامسونج الاقتصادية بنظام Wear OS وزجاج الكريستال الياقوتي.",
+    "description": "توفر Galaxy Watch FE كافة الميزات الأساسية للنظام الذكي Wear OS مع تتبع مؤشرات القلب والتمارين الرياضية وشاشة حماية Sapphire Crystal متينة.",
+    "price": 8900,
+    "originalPrice": 10200,
+    "discountPercent": 12,
+    "rating": 4.6,
+    "reviewCount": 110,
+    "reviewsCount": 110,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "المقاس": "40 ملم ألومنيوم مع زجاج الياقوت",
+      "النظام": "Wear OS Powered by Samsung",
+      "المستشعرات": "BioActive لقياس نبضات القلب ورسم القلب ECG",
+      "التوافق": "هواتف الأندرويد وخاصة سامسونج جلاكسي"
+    },
+    "pros": [
+      "زجاج Sapphire Crystal المقاوم للخدش",
+      "دعم الدفع الإلكتروني وتطبيقات جوجل",
+      "تصميم عصري أنيق ومناسب للمعاصم الصغرى"
+    ],
+    "cons": [
+      "حجم البطارية صغير يتطلب شحناً يومياً"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 8900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 9200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 8990,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-024",
+    "name": "ريدمي واش 4 Redmi Watch 4",
+    "slug": "redmi-watch-4",
+    "category": "Smart Watches",
+    "brand": "Xiaomi",
+    "shortDescription": "إطار سبائك الألومنيوم وشاشة AMOLED ضخمة 1.97 بوصة وبطارية 20 يوماً.",
+    "description": "تأتي Redmi Watch 4 بأكبر شاشة في تاريخ سلسلة ريدمي مع إطار معدني فاخر وزر تاج يدور بسلاسة لدعم إجراء المكالمات عبر البلوتوث.",
+    "price": 4900,
+    "originalPrice": 5600,
+    "discountPercent": 12,
+    "rating": 4.7,
+    "reviewCount": 320,
+    "reviewsCount": 320,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "1.97 بوصة LTPS AMOLED 60Hz 600 nits",
+      "الإطار": "سبائك الألومنيوم مع تاج الفولاذ المقاوم للصدأ",
+      "البطارية": "حتى 20 يوماً استخدام عادي",
+      "المكالمات": "دعم مكالمات البلوتوث مع ميكروفون وسماعة",
+      "المقاومة": "5ATM للماء"
+    },
+    "pros": [
+      "شاشة ضخمة جداً ومريحة في قراءة الإشعارات",
+      "إطار ألومنيوم يعطي انطباع بمنتج أغلى ثمناً",
+      "بطارية تدوم نحو 3 أسابيع"
+    ],
+    "cons": [
+      "لا تحتوي على نظام GPS مستقل بدقة عالية"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 4900,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مجاني",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 5100,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل للمنزل",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 4950,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "eg-watch-025",
+    "name": "سوار هواوي الذكي Huawei Band 8",
+    "slug": "huawei-band-8",
+    "category": "Smart Watches",
+    "brand": "Huawei",
+    "shortDescription": "سوار رياضي فائق النحافة بوزن 14 جرام مع تتبع النوم العلمي وبطارية 14 يوماً.",
+    "description": "يعتبر Huawei Band 8 الخيار الأكثر شعبية لتتبع الصحة والخطوات اليومية بتصميم نحيف وسوار مريح وتوافقيّة تامة مع جميع الهواتف الذكية.",
+    "price": 2200,
+    "originalPrice": 2600,
+    "discountPercent": 15,
+    "rating": 4.8,
+    "reviewCount": 750,
+    "reviewsCount": 750,
+    "affiliateUrl": "",
+    "image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": {
+      "الشاشة": "1.47 بوصة AMOLED ملونة",
+      "السمك والوزن": "8.99 ملم / 14 جرام بدون حزام",
+      "البطارية": "14 يوماً استخدام منتظم / شحن سريع",
+      "المستشعرات": "TruSeen 5.0 ونظام TruSleep 3.0",
+      "التوافق": "Android و iOS"
+    },
+    "pros": [
+      "سعر اقتصادي في متناول الجماهير",
+      "تتبع نوم عالي الدقة وتقارير مفصلة",
+      "شحن سريع للغاية (5 دقائق يعطي يومين عمل)"
+    ],
+    "cons": [
+      "شاشة أصغر مقارنة بالساعات الكلاسيكية"
+    ],
+    "stores": [
+      {
+        "storeName": "Amazon Egypt",
+        "price": 2200,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "شحن مباشر",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Jumia Egypt",
+        "price": 2300,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "توصيل سريع",
+        "lastUpdated": "2026-08-02"
+      },
+      {
+        "storeName": "Noon Egypt",
+        "price": 2250,
+        "affiliateUrl": "",
+        "inStock": true,
+        "shippingText": "نون اكسبريس",
+        "lastUpdated": "2026-08-02"
+      }
+    ]
+  }
+]

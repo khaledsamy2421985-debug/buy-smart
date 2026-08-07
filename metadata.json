@@ -1,0 +1,6 @@
+{
+  "name": "صفوة العروض - منصة التسويق بالعمولة",
+  "description": "موقع أفلييت احترافي متكامل ومتجاوب لعرض أحدث العروض والمنتجات والمقارنة بينها مع لوحة تحكم سريعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

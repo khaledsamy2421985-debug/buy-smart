@@ -1,0 +1,3746 @@
+[
+  {
+    "id": "prod-001",
+    "name": "سماعات سوني WH-1000XM5 اللاسلكية لعزل الضوضاء",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "سماعات فوق الأذن رائدة في إلغاء الضوضاء مع صوت نقي للغاية وبطارية تدوم حتى 30 ساعة متواصلة.",
+    "longDescription": "تعتبر سماعة Sony WH-1000XM5 الخيار الأول لعشاق الصوتيات والمسافرين. تأتي بمحركات صونية متطورة ونظام الميكروفونات الثمانية لمكالمات فائقة النقاء.",
+    "price": 1299,
+    "originalPrice": 1699,
+    "discountPercent": 24,
+    "rating": 4.9,
+    "reviewsCount": 342,
+    "affiliateUrl": "https://amazon.com/dp/B09XS7JWHH?tag=safwadeals-20",
+    "category": "audio-gaming",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "نوع الاتصال": "بلوتوث 5.2 / كابل 3.5mm",
+      "عمر البطارية": "30 ساعة مع إلغاء الضوضاء",
+      "الوزن": "250 جرام"
+    },
+    "pros": [
+      "أفضل تقنية عزل ضوضاء في الفئة",
+      "خفيفة الوزن ومريحة للاستخدام الطويل"
+    ],
+    "cons": [
+      "غير قابلة للطي بالشكل التقليدي"
+    ],
+    "createdAt": "2026-07-25"
+  },
+  {
+    "id": "prod-002",
+    "name": "ساعة آبل الذكية Apple Watch Series 9 GPS - 45mm",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شريحة S9 المتطورة، شاشة أكثر سطوعاً بمرتين، وخاصية النقر المزدوج السحرية.",
+    "longDescription": "تأتي ساعة Apple Watch Series 9 بقوة معالجة فائقة وتتحكم بها بإيماءات سحرية باليد دون لمس الشاشة.",
+    "price": 1549,
+    "originalPrice": 1899,
+    "discountPercent": 18,
+    "rating": 4.8,
+    "reviewsCount": 215,
+    "affiliateUrl": "https://amazon.com/dp/B0CHX13SGS?tag=safwadeals-20",
+    "category": "electronics",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon",
+    "badge": "عرض خاص",
+    "specs": {
+      "المقاس": "45 ملم",
+      "الشاشة": "Always-On Retina بوضوح 2000 nits"
+    },
+    "pros": [
+      "إيماءة الضغط المزدوج المبتكرة",
+      "دقة عالية في تتبع المؤشرات الصحية"
+    ],
+    "cons": [
+      "عمر البطارية يحتاج شحن يومي"
+    ],
+    "createdAt": "2026-07-28"
+  },
+  {
+    "id": "prod-003",
+    "name": "قلاية نينجا الجوية المزدوجة Ninja Foodi MAX DualZone 9.5L",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "درجين مستقلين لطهي وجبتين بطريقتين مختلفين وإنهائهما في نفس الوقت بدقة متناهية.",
+    "longDescription": "وجبات صحية مقرمشة بزيوت أقل بنسبة 75%. سعة ضخمة 9.5 لتر مع 6 برامج طهي مدمجة.",
+    "price": 899,
+    "originalPrice": 1299,
+    "discountPercent": 31,
+    "rating": 4.9,
+    "reviewsCount": 512,
+    "affiliateUrl": "https://noon.com/p/ninja-foodi-dualzone/N50812981A?tag=safwadeals-20",
+    "category": "home-kitchen",
+    "featured": true,
+    "inStock": true,
+    "store": "Noon",
+    "badge": "خصم 31%",
+    "specs": {
+      "السعة": "9.5 لتر",
+      "القوة": "2470 واط"
+    },
+    "pros": [
+      "طهي وجبتين ببرنامجين مختلفين ينتهيان معاً",
+      "سهلة التنظيف وآمنة بغسالة الأطباق"
+    ],
+    "cons": [
+      "حجمها كبير على الأسطح الصغيرة"
+    ],
+    "createdAt": "2026-07-20"
+  },
+  {
+    "id": "prod-004",
+    "name": "ماكينة قهوة ديلونجي ديديكا اسبريسو DeLonghi Dedica EC685",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ماكينة احترافية بحجم مدمج 15 سم فقط، مع مضخة 15 بار لمذاق قهوة فاخر ورغوة حليب غنية.",
+    "longDescription": "استمتع بكوب كابتشينو أو لاتيه مميز في منزلك. تصميم ستانلس ستيل أنيق يزين مطبخك.",
+    "price": 649,
+    "originalPrice": 899,
+    "discountPercent": 28,
+    "rating": 4.7,
+    "reviewsCount": 189,
+    "affiliateUrl": "https://amazon.com/dp/B06XSYNW8C?tag=safwadeals-20",
+    "category": "home-kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الضغط": "15 بار",
+      "العرض": "15 سم"
+    },
+    "pros": [
+      "تصميم نحيف وجذاب جداً",
+      "تسخين سريع في 35 ثانية"
+    ],
+    "cons": [
+      "المكبس المرفق من البلاستيك"
+    ],
+    "createdAt": "2026-07-15"
+  },
+  {
+    "id": "prod-005",
+    "name": "لابتوب أبل ماك بوك اير M3 بشاشة 13.6 بوصة Apple MacBook Air",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "خفيف للغاية، أداء فائق بفضل معالج M3، وبطارية مذهلة تدوم حتى 18 ساعة.",
+    "longDescription": "يقدم ماك بوك اير M3 أداء خارق خالي من الصخب بدون مراوح مع شاشة Liquid Retina مذهلة.",
+    "price": 4399,
+    "originalPrice": 4899,
+    "discountPercent": 10,
+    "rating": 4.95,
+    "reviewsCount": 128,
+    "affiliateUrl": "https://amazon.com/dp/B0CX23AC42?tag=safwadeals-20",
+    "category": "electronics",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon",
+    "badge": "أحدث إصدار",
+    "specs": {
+      "المعالج": "Apple M3 chip",
+      "الذاكرة": "8GB Unified Memory / 256GB SSD"
+    },
+    "pros": [
+      "هدوء تام بدون مراوح",
+      "عمر بطارية خارق"
+    ],
+    "cons": [
+      "النسخة الأساسية 8 جيجا رام"
+    ],
+    "createdAt": "2026-07-30"
+  },
+  {
+    "id": "prod-006",
+    "name": "سوار تتبع اللياقة البدنية شاومي باند 8 برو Xiaomi Smart Band 8 Pro",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة AMOLED مقاس 1.74 بوصة مع GPS مدمج وأكثر من 150 نمط رياضي.",
+    "longDescription": "سوار رياضي بتصميم شاشة عريضة ملونة وعمر بطارية تدوم 14 يوماً.",
+    "price": 249,
+    "originalPrice": 329,
+    "discountPercent": 24,
+    "rating": 4.6,
+    "reviewsCount": 280,
+    "affiliateUrl": "https://express.google.com/search?q=xiaomi+band+8+pro&tag=safwadeals-20",
+    "category": "health-fitness",
+    "featured": false,
+    "inStock": true,
+    "store": "AliExpress",
+    "badge": "قيمة مقابل سعر",
+    "specs": {
+      "الشاشة": "1.74\" AMOLED",
+      "البطارية": "14 يوماً"
+    },
+    "pros": [
+      "شاشة كبيرة وواضحة جداً",
+      "GPS مدمج"
+    ],
+    "cons": [
+      "لا تدعم المكالمات الصوتي"
+    ],
+    "createdAt": "2026-07-10"
+  },
+  {
+    "id": "prod-007",
+    "name": "سامسونج جلاكسي S24 ألترا 512 جيجابايت 5G",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "هاتف رائد بإطار من التيتانيوم وشاشة 6.8 بوصة وقلم S Pen مدمج وتقنيات الذكاء الاصطناعي Galaxy AI.",
+    "longDescription": "يعتبر سامسونج جلاكسي S24 ألترا قمة التطور في هواتف الأندرويد، بفضل معالج Snapdragon 8 Gen 3 وقدرات التصوير الخارقة.",
+    "price": 62500,
+    "originalPrice": 68000,
+    "discountPercent": 8,
+    "rating": 4.4,
+    "reviewsCount": 184,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "6.8 بوصة Dynamic AMOLED 2X",
+      "المعالج": "Snapdragon 8 Gen 3",
+      "الرام": "12GB",
+      "التخزين": "512GB"
+    },
+    "pros": [
+      "إطار تيتانيوم قوي",
+      "قلم S Pen مدمج",
+      "كاميرا 200 ميجابكسل"
+    ],
+    "cons": [
+      "وزن ثقيل نسبياً",
+      "بدون شاحن في العلبة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-008",
+    "name": "آبل آيفون 15 بروماكس 256 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "هاتف آبل الأقوى بهيكل التيتانيوم وشريحة A17 Pro وزر الأكشن المخصص.",
+    "longDescription": "يتميز iPhone 15 Pro Max بكاميرا جديدة بدقة 48 ميجابكسل مع تقريب بصري 5x وتصميم أخف وزناً بفضل التيتانيوم.",
+    "price": 68500,
+    "originalPrice": 74000,
+    "discountPercent": 7,
+    "rating": 4.8,
+    "reviewsCount": 366,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الشاشة": "6.7 بوصة Super Retina XDR",
+      "المعالج": "A17 Pro",
+      "الرام": "8GB",
+      "التخزين": "256GB"
+    },
+    "pros": [
+      "أداء خيالي في الألعاب",
+      "تصوير فيديو سينمائي",
+      "منفذ USB-C"
+    ],
+    "cons": [
+      "سعر مرتفع",
+      "سرعة شحن متوسطة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-009",
+    "name": "شاومي 14 ألترا 512 جيجابايت 5G",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "وحش التصوير بالتعاون مع Leica وحساس بمقاس 1 بوصة الكامل.",
+    "longDescription": "يقدم Xiaomi 14 Ultra تجربة احترافية في عالم التصوير مع عدسات لايكا الألمانية وأربعة كاميرات بدقة 50 ميجابكسل.",
+    "price": 54000,
+    "originalPrice": 59000,
+    "discountPercent": 8,
+    "rating": 4.4,
+    "reviewsCount": 258,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الشاشة": "6.73 بوصة LTPO AMOLED",
+      "المعالج": "Snapdragon 8 Gen 3",
+      "الرام": "16GB",
+      "التخزين": "512GB"
+    },
+    "pros": [
+      "أفضل نظام كاميرات احترافي",
+      "شحن سريع 90W",
+      "شاشة فائقة السطوع"
+    ],
+    "cons": [
+      "بروز الكاميرا كبير"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-010",
+    "name": "سامسونج جلاكسي A55 5G 256 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ملك الفئة المتوسطة بهيكل زجاجي وإطار معدني ومقاومة الماء IP67.",
+    "longDescription": "يأتي Galaxy A55 5G بشاشة Super AMOLED سلسة ومعالج Exynos 1480 مع بطارية ضخمة 5000 ملّي أمبير.",
+    "price": 21500,
+    "originalPrice": 24000,
+    "discountPercent": 10,
+    "rating": 4.4,
+    "reviewsCount": 213,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الشاشة": "6.6 بوصة Super AMOLED 120Hz",
+      "المعالج": "Exynos 1480",
+      "الرام": "8GB",
+      "التخزين": "256GB"
+    },
+    "pros": [
+      "خامات ممتازة بملمس رائد",
+      "مقاومة ماء IP67",
+      "تحديثات أندرويد طويلة"
+    ],
+    "cons": [
+      "حواف الشاشة بارزة قليلاً"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-011",
+    "name": "شاومي ريدمي نوت 13 برو بلس 5G",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة منحنية وكاميرا 200 ميجابكسل وشحن صاروخي 120 واط.",
+    "longDescription": "يتميز Redmi Note 13 Pro+ 5G بشاشة AMOLED منحنية بدقة 1.5K وشاحن سريع يشحن البطارية في 19 دقيقة.",
+    "price": 22800,
+    "originalPrice": 25500,
+    "discountPercent": 11,
+    "rating": 4.6,
+    "reviewsCount": 219,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "6.67 بوصة AMOLED 120Hz",
+      "المعالج": "Dimensity 7200 Ultra",
+      "الرام": "12GB",
+      "التخزين": "512GB"
+    },
+    "pros": [
+      "شاحن 120W رفقة الهاتف",
+      "مقاومة ماء IP68",
+      "تصميم منحني فاخر"
+    ],
+    "cons": [
+      "تطبيقات مثبتة مسبقاً"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-012",
+    "name": "ريلمي 12 برو بلس 5G 512 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "كاميرا بريسكوب للتقريب البصري وتصميم فاخر مستوحى من الساعات السويسرية.",
+    "longDescription": "يقدم Realme 12 Pro+ كاميرا تقريب بيريستروب بدقة 64 ميجابكسل مع خلفية جلدية ناعمة أنيقة.",
+    "price": 20900,
+    "originalPrice": 23500,
+    "discountPercent": 11,
+    "rating": 4.4,
+    "reviewsCount": 459,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "الشاشة": "6.7 بوصة AMOLED 120Hz",
+      "المعالج": "Snapdragon 7s Gen 2",
+      "الرام": "12GB",
+      "التخزين": "512GB"
+    },
+    "pros": [
+      "عدسة تقريب بيريستروب",
+      "تصميم جلد فاخر",
+      "شاشة جيدة جداً"
+    ],
+    "cons": [
+      "صوت السماعات متوسط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-013",
+    "name": "أوبو رينو 11 برو 5G 512 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "خبير البورتريه مع معالج Dimensity 8200 وشحن 80 واط.",
+    "longDescription": "يأتي OPPO Reno 11 Pro بخيارات ألوان جذابة وكاميرا بورتريه متخصصة بدقة عالية.",
+    "price": 24200,
+    "originalPrice": 27000,
+    "discountPercent": 10,
+    "rating": 4.4,
+    "reviewsCount": 245,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "6.7 بوصة OLED 120Hz",
+      "المعالج": "Dimensity 8200",
+      "الرام": "12GB",
+      "التخزين": "512GB"
+    },
+    "pros": [
+      "تصوير بورتريه سينمائي",
+      "وزن خفيف وسمك نحيف",
+      "شحن سريع 80W"
+    ],
+    "cons": [
+      "سعة بطارية 4600mAh"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-014",
+    "name": "هونر 200 برو 512 جيجابايت 5G",
+    "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "كاميرا استوديو هاركورت للبورتريه ومعالج Snapdragon 8s Gen 3.",
+    "longDescription": "تم تطوير نظام التصوير في Honor 200 Pro بالشراكة مع استوديو Studio Harcourt الباريسي لتقديم أفضل صور بورتريه.",
+    "price": 28500,
+    "originalPrice": 31500,
+    "discountPercent": 10,
+    "rating": 4.8,
+    "reviewsCount": 309,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "الشاشة": "6.78 بوصة OLED 120Hz",
+      "المعالج": "Snapdragon 8s Gen 3",
+      "الرام": "12GB",
+      "التخزين": "512GB"
+    },
+    "pros": [
+      "صور بورتريه ضوئية مذهلة",
+      "شاشة مريحة جداً للعين",
+      "شحن لاسلكي 66W"
+    ],
+    "cons": [
+      "تصميم الكاميرا غير معتاد"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-015",
+    "name": "آبل آيفون 13 سعة 128 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "الأكثر طلباً وتوفيراً بقوة معالج A15 Bionic وكاميرات متميزة.",
+    "longDescription": "يقدم iPhone 13 المعادلة المثالية بين القيمة والسعر في هواتف آبل مع بطارية ممتازة وشاشة Super Retina XDR.",
+    "price": 31000,
+    "originalPrice": 35000,
+    "discountPercent": 11,
+    "rating": 4.4,
+    "reviewsCount": 246,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": true,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الشاشة": "6.1 بوصة Super Retina XDR",
+      "المعالج": "A15 Bionic",
+      "التخزين": "128GB"
+    },
+    "pros": [
+      "أفضل قيمة مقابل السعر لآيفون",
+      "أداء قوي وسلس",
+      "حجم مدمج ومريح"
+    ],
+    "cons": [
+      "شاشة 60Hz فقط",
+      "منفذ Lightning"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-016",
+    "name": "سامسونج جلاكسي S23 FE 256 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تجربة الفئة الرائدة بسعر مناسب مع كاميرا زووم ومقاومة الماء.",
+    "longDescription": "نسخة المعجبين Galaxy S23 FE تقدم تجربة الهواتف الرائدة بسعر متوسط، مع شاشة Dynamic AMOLED 2X وكاميرات متطورة.",
+    "price": 27900,
+    "originalPrice": 31000,
+    "discountPercent": 10,
+    "rating": 4.7,
+    "reviewsCount": 463,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "6.4 بوصة Dynamic AMOLED 2X",
+      "المعالج": "Exynos 2200",
+      "الرام": "8GB",
+      "التخزين": "256GB"
+    },
+    "pros": [
+      "عدسة تقريب 3x حقيقية",
+      "دعم الشحن اللاسلكي",
+      "مقاومة ماء IP68"
+    ],
+    "cons": [
+      "استهلاك بطارية متوسط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-017",
+    "name": "ريلمي C67 سعة 256 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أفضل خيار اقتصادي بكاميرا 108 ميجابكسل ومعالج Snapdragon 685.",
+    "longDescription": "يقدم Realme C67 مواصفات منافسة جداً في الفئة الاقتصادية بسعة 256 جيجابايت وشاشة بسطوع مرتفع مع شاحن 33 واط.",
+    "price": 8200,
+    "originalPrice": 9500,
+    "discountPercent": 14,
+    "rating": 4.4,
+    "reviewsCount": 292,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "6.72 بوصة FHD+ 90Hz",
+      "المعالج": "Snapdragon 685",
+      "الرام": "8GB",
+      "التخزين": "256GB"
+    },
+    "pros": [
+      "مساحة 256GB كبيرة",
+      "كاميرا 108MP تفاصيلها جيدة",
+      "سماعات ستيريو"
+    ],
+    "cons": [
+      "لا يدعم 5G"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-018",
+    "name": "شاومي ريدمي 13C سعة 128 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "هاتف اقتصادي بشاشة كبيرة 90Hz وبطارية يومين متواصلين.",
+    "longDescription": "يعتبر Redmi 13C الاختيار العملي اليومي بشاشة كبيرة وسلسة وبطارية يدوم شحنها لفترات طويلة مع تصميم عصري.",
+    "price": 6100,
+    "originalPrice": 7000,
+    "discountPercent": 13,
+    "rating": 4.7,
+    "reviewsCount": 323,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الشاشة": "6.74 بوصة HD+ 90Hz",
+      "المعالج": "Helio G85",
+      "الرام": "6GB",
+      "التخزين": "128GB"
+    },
+    "pros": [
+      "سعر اقتصادي جداً",
+      "شاشة كبيرة سلسة",
+      "عمر بطارية طويل"
+    ],
+    "cons": [
+      "دقة الشاشة HD+"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-019",
+    "name": "فيفو V30 5G سعة 256 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "إضاءة Aura Light المبتكرة للبورتريه وشاشة AMOLED منحنية.",
+    "longDescription": "يتميز هاتف vivo V30 بكاميرات سيلفي وبورتريه احترافية مدعومة بحلقة إضاءة حارة/باردة ذكية.",
+    "price": 20500,
+    "originalPrice": 22800,
+    "discountPercent": 10,
+    "rating": 4.7,
+    "reviewsCount": 222,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "6.78 بوصة AMOLED 1.5K",
+      "المعالج": "Snapdragon 7 Gen 3",
+      "الرام": "12GB",
+      "التخزين": "256GB"
+    },
+    "pros": [
+      "إضاءة Aura Light ممتازة ليلاً",
+      "سيلفي 50MP بزاوية واسعة",
+      "تصميم نحيف للغاية"
+    ],
+    "cons": [
+      "سماعة أحادية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-020",
+    "name": "سامسونج جلاكسي A15 سعة 128 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة Super AMOLED بدقة FHD+ بسعر اقتصادي مذهل.",
+    "longDescription": "ينقل Galaxy A15 تجربة الشاشات العالية الجودة Super AMOLED إلى الفئة الاقتصادية، مع معالج Helio G99.",
+    "price": 6800,
+    "originalPrice": 7600,
+    "discountPercent": 11,
+    "rating": 4.7,
+    "reviewsCount": 139,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "الشاشة": "6.5 بوصة Super AMOLED 90Hz",
+      "المعالج": "Helio G99",
+      "الرام": "4GB",
+      "التخزين": "128GB"
+    },
+    "pros": [
+      "أفضل شاشة Super AMOLED في فئته",
+      "معالج متزن وسلس",
+      "دعم تحديثات سامسونج"
+    ],
+    "cons": [
+      "الشاحن غير مرفق"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-021",
+    "name": "إنفينيكس نوت 40 برو 256 جيجابايت",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شحن مغناطيسي لاسلكي وشاشة منحنية 120Hz بسعر منافس.",
+    "longDescription": "يقدم Infinix Note 40 Pro تقنية الشحن اللاسلكي MagCharge مع شاحن مغناطيسي مرفق وسماعات من JBL.",
+    "price": 12800,
+    "originalPrice": 14500,
+    "discountPercent": 12,
+    "rating": 4.7,
+    "reviewsCount": 468,
+    "affiliateUrl": "",
+    "category": "Smartphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "الشاشة": "6.78 بوصة AMOLED منحنية",
+      "المعالج": "Helio G99 Ultimate",
+      "الرام": "12GB",
+      "التخزين": "256GB"
+    },
+    "pros": [
+      "ملحقات شحن لاسلكي بالعلبة",
+      "صوت ستيريو JBL",
+      "شاشة منحنية راقية"
+    ],
+    "cons": [
+      "الكاميرات الثانوية عادية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-022",
+    "name": "آبل ماك بوك برو M3 ماكس 16 بوصة",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أقوى محطة عمل محمولة للمحترفين والمصممين مع معالج M3 Max وشاشة Liquid Retina XDR.",
+    "longDescription": "يقدم MacBook Pro 16 أداءً منقطع النظير في معالجة الجرافيكس ثلاثي الأبعاد والمونتاج بدقة 8K مع بطارية تدوم حتى 22 ساعة.",
+    "price": 145000,
+    "originalPrice": 158000,
+    "discountPercent": 8,
+    "rating": 4.7,
+    "reviewsCount": 456,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "المعالج": "Apple M3 Max (16-core CPU, 40-core GPU)",
+      "الذاكرة": "36GB Unified Memory",
+      "التخزين": "1TB SSD",
+      "الشاشة": "16.2 بوصة Liquid Retina XDR 120Hz"
+    },
+    "pros": [
+      "أداء خارق للبرامج الثقيلة",
+      "شاشة مبهرة الألوان والسطوع",
+      "بطارية تدوم يوماً كاملاً"
+    ],
+    "cons": [
+      "سعر مرتفع جداً",
+      "وزن 2.1 كجم"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-023",
+    "name": "لابتوب الألعاب أسوس ROG Strix G16 كور i7",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "وحش الجيمينج بكارت RTX 4070 وشاشة 165Hz لمنافسات الألعاب الاحترافية.",
+    "longDescription": "مصمم لعشاق الألعاب الإلكترونية، يأتي ASUS ROG Strix G16 بنظام تبريد ثلاثي المراوح وإضاءة RGB مذهلة للوحة المفاتيح.",
+    "price": 78000,
+    "originalPrice": 85000,
+    "discountPercent": 8,
+    "rating": 4.3,
+    "reviewsCount": 195,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "المعالج": "Intel Core i7-13650HX",
+      "كارت الشاشة": "NVIDIA GeForce RTX 4070 8GB",
+      "الرام": "16GB DDR5",
+      "التخزين": "1TB NVMe SSD"
+    },
+    "pros": [
+      "أداء ألعاب ممتاز بدقة 2K",
+      "نظام تبريد متطور ROG Intelligent",
+      "إضاءة RGB جذابة"
+    ],
+    "cons": [
+      "حجم شاحن كبير",
+      "بطارية متوسطة بالألعاب"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-024",
+    "name": "ديل XPS 15 9530 كور i9 لمس",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أيقونة التصميم والأناقة لشاشات OLED اللمسية مع أداء الجيل الثالث عشر.",
+    "longDescription": "يجمع Dell XPS 15 بين خامات الألومنيوم وألياف الكربون مع شاشة OLED 3.5K فائقة الدقة لمعالجة الصور والمحتوى.",
+    "price": 98000,
+    "originalPrice": 108000,
+    "discountPercent": 9,
+    "rating": 4.8,
+    "reviewsCount": 320,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "المعالج": "Intel Core i9-13900H",
+      "الشاشة": "15.6 بوصة OLED 3.5K Touch",
+      "كارت الشاشة": "RTX 4060 8GB",
+      "الرام": "32GB"
+    },
+    "pros": [
+      "شاشة OLED لمس مذهلة",
+      "هيكل ألومنيوم فاخر وصلب",
+      "سماعات صونية قوية"
+    ],
+    "cons": [
+      "منافذ USB-C فقط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-025",
+    "name": "لينوفو ليجن سليم 5 رايزن 7",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "التوازن المثالي بين نحافة الجسم وقوة تشغيل ألعاب 1440p بكارت RTX 4060.",
+    "longDescription": "يقدم Lenovo Legion Slim 5 أداء هادئاً وبطارية متزنة بفضل معالجات AMD Ryzen المتطورة مع شاشة WQXGA بتردد 165Hz.",
+    "price": 64000,
+    "originalPrice": 71000,
+    "discountPercent": 10,
+    "rating": 4.6,
+    "reviewsCount": 318,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "المعالج": "AMD Ryzen 7 7840HS",
+      "كارت الشاشة": "RTX 4060 8GB",
+      "الرام": "16GB DDR5",
+      "التخزين": "512GB SSD"
+    },
+    "pros": [
+      "تصميم أنيق ونحيف بالنسبة للابتوب جيمينج",
+      "لوحة مفاتيح ممتازة Legion TrueStrike",
+      "شاشة بدقة عالية 1600p"
+    ],
+    "cons": [
+      "سعة التخزين الأساسية 512GB"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-026",
+    "name": "إتش بي فيكتوس 15 كور i5 RTX 3050",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "لابتوب ألعاب وصناع محتوى اقتصادي بأعلى قيمة مقابل السعر.",
+    "longDescription": "يمنحك HP Victus 15 القوة الكافية للبدء في عالم الألعاب والمونتاج مع معالج الجيل الثاني عشر وكارت شاشة انفيديا مستقل.",
+    "price": 32500,
+    "originalPrice": 36000,
+    "discountPercent": 10,
+    "rating": 4.6,
+    "reviewsCount": 484,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "المعالج": "Intel Core i5-12450H",
+      "كارت الشاشة": "NVIDIA RTX 3050 4GB",
+      "الرام": "8GB",
+      "التخزين": "512GB SSD"
+    },
+    "pros": [
+      "سعر اقتصادي في فئة الألعاب",
+      "شاشة 144Hz سلسة",
+      "تصميم هادئ يناسب العمل والجامعة"
+    ],
+    "cons": [
+      "حجم الرام 8GB يحتاج ترقية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-027",
+    "name": "أيسر نيترو 5 رايزن 5 كارت GTX 1650",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "اللابتوب الأكثر انتشاراً للطلاب والعمل المكتبي مع الجيمينج الخفيف.",
+    "longDescription": "يعد Acer Nitro 5 الخيار الأول الموثوق للمستجديين في البرمجة والتصميم الجرافيكي بفضل تبريده القوي وقابليته للترقية بسهولة.",
+    "price": 26500,
+    "originalPrice": 29500,
+    "discountPercent": 10,
+    "rating": 4.3,
+    "reviewsCount": 119,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "المعالج": "AMD Ryzen 5 5600H",
+      "كارت الشاشة": "GTX 1650 4GB",
+      "الرام": "8GB",
+      "التخزين": "512GB SSD"
+    },
+    "pros": [
+      "سعر مناسب جداً",
+      "سهولة ترقية الرام والتخزين",
+      "لوحة مفاتيح حمراء مريحة"
+    ],
+    "cons": [
+      "الشاشة متوسطة السطوع والألوان"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-028",
+    "name": "آبل ماك بوك اير M2 شاشة 15 بوصة",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة أكبر سمك نحيف للغاية 11.5 ملم بدون صوت مراوح إطلاقاً.",
+    "longDescription": "يمنحك MacBook Air 15 M2 مساحة عمل واسعة مع هدوء تام ووزن 1.51 كجم فقط لتنقله بسهولة في أي مكان.",
+    "price": 58000,
+    "originalPrice": 64000,
+    "discountPercent": 9,
+    "rating": 4.4,
+    "reviewsCount": 188,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "المعالج": "Apple M2 chip",
+      "الرام": "8GB Unified",
+      "التخزين": "256GB SSD",
+      "الشاشة": "15.3 بوصة Liquid Retina"
+    },
+    "pros": [
+      "شاشة واسعة ومبهرة",
+      "نحافة ووزن خفيف جداً",
+      "بطارية تدوم 18 ساعة"
+    ],
+    "cons": [
+      "منافذ محدودة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-029",
+    "name": "لينوفو أيديا باد سليم 3 كور i3",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "لابتوب الطلاب والمشاهدة اليومية بسعر محلي اقتصادي.",
+    "longDescription": "Lenovo IdeaPad Slim 3 يقدم هيكل متين وشاشة Full HD مع معالج عملي لاستهلاك التصفح والدراسة عبر الإنترنت.",
+    "price": 16500,
+    "originalPrice": 18500,
+    "discountPercent": 11,
+    "rating": 4.8,
+    "reviewsCount": 410,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "المعالج": "Intel Core i3-1215U",
+      "الرام": "8GB DDR4",
+      "التخزين": "256GB NVMe SSD",
+      "الشاشة": "15.6 بوصة FHD"
+    },
+    "pros": [
+      "سعر اقتصادي ممتاز",
+      "خفيف وسهل الحمل",
+      "فتح بالبصمة ذكي"
+    ],
+    "cons": [
+      "غير مخصص للألعاب الثقيلة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-030",
+    "name": "إتش بي بافيليون 15 كور i7 الجيل 13",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "لابتوب الأعمال والإنتاجية بلمسات ألومنيوم وشاشة IPS نقية.",
+    "longDescription": "يقدم HP Pavilion 15 سرعة فائقة في فتح البرامج والمستندات بفضل معالج i7 ذو 10 أنوية وشحن سريع HP Fast Charge.",
+    "price": 38000,
+    "originalPrice": 42000,
+    "discountPercent": 10,
+    "rating": 4.5,
+    "reviewsCount": 183,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "المعالج": "Intel Core i7-1355U",
+      "الرام": "16GB DDR4",
+      "التخزين": "512GB SSD",
+      "الشاشة": "15.6 بوصة FHD IPS"
+    },
+    "pros": [
+      "معالج قوي للمهام المتعددة",
+      "شاحن سريع 45 دقيقة لـ 50%",
+      "لوحة أرقام جانبية"
+    ],
+    "cons": [
+      "البطارية متوسطة عند أقصى سطوع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-031",
+    "name": "أسوس زن بوك 14 OLED رايزن 7",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "خفيف كالريشة 1.3 كجم بشاشة OLED 2.8K وألوان سينمائية 100% DCI-P3.",
+    "longDescription": "تصميم فاخر بأعلى معايير المتانة العسكرية MIL-STD 810H، مما يجعل ASUS Zenbook 14 رفيق السفر المثالي.",
+    "price": 49000,
+    "originalPrice": 54000,
+    "discountPercent": 9,
+    "rating": 4.5,
+    "reviewsCount": 218,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "المعالج": "AMD Ryzen 7 7730U",
+      "الشاشة": "14 بوصة OLED 2.8K 90Hz",
+      "الرام": "16GB",
+      "التخزين": "1TB SSD"
+    },
+    "pros": [
+      "أفضل شاشة OLED ناصعة الألوان",
+      "وزن خفيف وسمك نحيف",
+      "بطارية تدوم 12 ساعة"
+    ],
+    "cons": [
+      "الرام مدمجة غير قابلة للترقية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-032",
+    "name": "إم إس أي ثين GF63 كور i5 RTX 3050",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أخف لابتوب ألعاب وزن 1.86 كجم بغطاء ألومنيوم أسود ممشط.",
+    "longDescription": "يعد MSI Thin GF63 الاختيار الأنسب لمن يرغب في لابتوب جيمينج سهل التناقل ومزود بشاشة 144Hz.",
+    "price": 29500,
+    "originalPrice": 33000,
+    "discountPercent": 11,
+    "rating": 4.3,
+    "reviewsCount": 487,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "المعالج": "Intel Core i5-12450H",
+      "كارت الشاشة": "RTX 3050 4GB",
+      "الرام": "16GB",
+      "التخزين": "512GB SSD"
+    },
+    "pros": [
+      "وزن خفيف بالنسبة للابتوب جيمينج",
+      "سعر متناول للجميع",
+      "رام 16GB جاهزة"
+    ],
+    "cons": [
+      "مروحة واحدة للتبريد"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-033",
+    "name": "ديل إنسبرون 15 3520 كور i5",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة 120Hz وتصميم رفع مريح للطباعة أثناء الدوام والعمل.",
+    "longDescription": "Dell Inspiron 15 يعطي تجربة مريحة في الكتابة وسلاسة بالشاشة 120Hz مع معالج الجيل الثاني عشر.",
+    "price": 22500,
+    "originalPrice": 25000,
+    "discountPercent": 10,
+    "rating": 4.7,
+    "reviewsCount": 213,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "المعالج": "Intel Core i5-1235U",
+      "الشاشة": "15.6 بوصة FHD 120Hz",
+      "الرام": "8GB",
+      "التخزين": "512GB SSD"
+    },
+    "pros": [
+      "شاشة 120Hz سلسة جداً",
+      "مفصلات رفع لتبريد وكتابة أسهل",
+      "اعتمادية ديل الشهيرة"
+    ],
+    "cons": [
+      "جسم بلاستيكي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-034",
+    "name": "هواوي ميت بوك D16 كور i9",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة ضخمة 16 بوصة مع هيكل معدني ونظام الهوائي الذكي Metaline Antenna.",
+    "longDescription": "يأتي HUAWEI MateBook D16 بأقوى معالج مع هيكل ألومنيوم فضي خفيف وشاحن هاتف 65W مدمج.",
+    "price": 46000,
+    "originalPrice": 51000,
+    "discountPercent": 10,
+    "rating": 4.8,
+    "reviewsCount": 301,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "المعالج": "Intel Core i9-13900H",
+      "الرام": "16GB",
+      "التخزين": "1TB SSD",
+      "الشاشة": "16 بوصة Eye Comfort"
+    },
+    "pros": [
+      "معالج i9 برقم قياسي في الفئة",
+      "هوائي WiFi يصل لمدى بعيد",
+      "وزن 1.68 كجم فقط"
+    ],
+    "cons": [
+      "لا يوجد كارت شاشة مستقل"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-035",
+    "name": "أيسر أسباير 5 كور i7 الجيل 13",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "اللابتوب العملي متعدد الأغراض بغطاء معدني وتبريد ذكي TwinAir.",
+    "longDescription": "يقدم Acer Aspire 5 أداء مستقر للمكاتب والشركات مع منافذ متعددة تشمل Thunderbolt 4.",
+    "price": 31000,
+    "originalPrice": 34500,
+    "discountPercent": 10,
+    "rating": 4.4,
+    "reviewsCount": 388,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "المعالج": "Intel Core i7-1355U",
+      "الرام": "16GB",
+      "التخزين": "512GB SSD",
+      "الشاشة": "15.6 بوصة FHD"
+    },
+    "pros": [
+      "منفذ Thunderbolt 4 سريع",
+      "تبريد هادئ ومزدوج",
+      "قيمة جيدة جداً"
+    ],
+    "cons": [
+      "الشاشة متوسطة الزوايا"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-036",
+    "name": "سامسونج جلاكسي بوك 3 كور i5",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تكامل ساحر مع هواتف وجلاكسي تاب مع هيكل معدني ألمونيوم فاخر.",
+    "longDescription": "يسمح Galaxy Book 3 بنقل الملفات واستخدام التابلت كشاشة ثانية بسهولة تامة عبر منظومة Samsung Eco System.",
+    "price": 35000,
+    "originalPrice": 39000,
+    "discountPercent": 10,
+    "rating": 4.3,
+    "reviewsCount": 528,
+    "affiliateUrl": "",
+    "category": "Laptops",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "المعالج": "Intel Core i5-1335U",
+      "الرام": "8GB LPDDR4x",
+      "التخزين": "512GB SSD",
+      "الشاشة": "15.6 بوصة FHD"
+    },
+    "pros": [
+      "تكامل سريع مع هواتف سامسونج",
+      "تصميم معدني متين ونحيف",
+      "سماعات Dolby Atmos"
+    ],
+    "cons": [
+      "الرام غير قابلة للترقية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-037",
+    "name": "آبل واتش ألترا 2 تيتانيوم 49mm",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ساعة الاستكشاف القاسية بشاشة 3000 nits وبطارية تصل 72 ساعة.",
+    "longDescription": "صممت للرياضات الصعبة والغوص مع هيكل تيتانيوم وزر حركة مخصص ونظام GPS مزدوج التردد.",
+    "price": 43000,
+    "originalPrice": 47000,
+    "discountPercent": 9,
+    "rating": 4.3,
+    "reviewsCount": 166,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "المقاس": "49 ملم تيتانيوم",
+      "الشاشة": "3000 nits Retina",
+      "البطارية": "حتى 72 ساعة",
+      "المقاومة": "غوص 40 متر"
+    },
+    "pros": [
+      "صلابة فائقة",
+      "أعلى سطوع شاشة في العالم",
+      "بطارية مضاعفة"
+    ],
+    "cons": [
+      "حجم كبير وسعر مرتفع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-038",
+    "name": "سامسونج جلاكسي واش 6 كلاسييك 47mm",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "إطار دوار ميكانيكي أيقوني وتتبع احترافي للنوم وتكوين الجسم.",
+    "longDescription": "تعود السلسلة الكلاسيكية بالإطار الدوار الممتع وشاشة زجاج ياقوتي ومستشعر BIA لتحليل العضلات والدهون.",
+    "price": 16800,
+    "originalPrice": 19000,
+    "discountPercent": 12,
+    "rating": 4.4,
+    "reviewsCount": 384,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "المقاس": "47 ملم Sapphire Crystal",
+      "النظام": "Wear OS",
+      "المستشعرات": "BIA, ECG, ضغط الدم"
+    },
+    "pros": [
+      "إطار دوار سهل للغاية",
+      "شاشة كبيرة واضحة",
+      "دعم تطبيقات جوجل"
+    ],
+    "cons": [
+      "بطارية 40 ساعة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-039",
+    "name": "هواوي واتش GT 4 مقاس 46mm",
+    "image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "بطارية أسطورية 14 يوماً وتصميم مثمن الأضلاع السويسرية.",
+    "longDescription": "تجمع HUAWEI WATCH GT 4 بين الأناقة الفاخرة وتتبع اللياقة بدقة عالية وتوافق كامل مع أندرويد وآيفون.",
+    "price": 10500,
+    "originalPrice": 12000,
+    "discountPercent": 13,
+    "rating": 4.9,
+    "reviewsCount": 404,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "المقاس": "46 ملم",
+      "البطارية": "14 يوماً",
+      "النظام": "HarmonyOS",
+      "المستشعرات": "TruSeen 5.5+"
+    },
+    "pros": [
+      "بطارية تدوم أسبوعين",
+      "تصميم راقٍ جداً",
+      "تتبع دقيق للغاية"
+    ],
+    "cons": [
+      "تطبيقات المتجر محدودة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-040",
+    "name": "أميزفيت بالانس الذكية Amazfit Balance",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "قياس الجاهزية الجسدية والذهنية اليومية بالذكاء الاصطناعي.",
+    "longDescription": "تساعدك على تتبع التعافي والنوم مع قياس مكونات الجسم وGPS ثنائي النطاق عالي الدقة.",
+    "price": 9200,
+    "originalPrice": 10500,
+    "discountPercent": 12,
+    "rating": 4.5,
+    "reviewsCount": 83,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "1.5 بوصة AMOLED 1500 nits",
+      "البطارية": "14 يوماً",
+      "الوزن": "35 جرام"
+    },
+    "pros": [
+      "مؤشر Readiness ممتاز",
+      "وزن خفيف باليد",
+      "بطارية طويلة"
+    ],
+    "cons": [
+      "الرد على الرسائل محدود"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-041",
+    "name": "آبل واتش SE الجيل الثاني 44mm",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "جميع الميزات الأساسية لآبل واتش بسعر اقتصادي مع شريحة S8.",
+    "longDescription": "تقدم Apple Watch SE 2 تتبع النشاط والمكالمات وكشف أكتشاف الحوادث بأسلوب عصري جذاب.",
+    "price": 13500,
+    "originalPrice": 15200,
+    "discountPercent": 11,
+    "rating": 4.8,
+    "reviewsCount": 420,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "المقاس": "44 ملم ألومنيوم",
+      "المعالج": "S8 SiP",
+      "الميزات": "كشف الحوادث وتتبع النوم"
+    },
+    "pros": [
+      "أفضل قيمة في أجهزة آبل",
+      "سريعة الخفة والأداء",
+      "تكامل تام مع الآيفون"
+    ],
+    "cons": [
+      "بدون شاشة Always-On"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-042",
+    "name": "شاومي واتش 2 برو LTE ستانلس ستيل",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "نظام Wear OS ومعالج Snapdragon W5+ وقدرة إجراء المكالمات المستقلة.",
+    "longDescription": "تأتي Xiaomi Watch 2 Pro بهيكل ستانلس ستيل فاخر ودعم متجر جوجل بلاي المباشر.",
+    "price": 11500,
+    "originalPrice": 13000,
+    "discountPercent": 12,
+    "rating": 4.5,
+    "reviewsCount": 137,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "المعالج": "Snapdragon W5+ Gen 1",
+      "النظام": "Google Wear OS",
+      "الشاشة": "1.43 بوصة AMOLED"
+    },
+    "pros": [
+      "متجر تطبيقات كامل",
+      "خامات ستانلس ستيل",
+      "سعر منافس جداً"
+    ],
+    "cons": [
+      "شحن كل يومين"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-043",
+    "name": "هونر واتش GS 3 الجلد الفاخر",
+    "image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تصميم منحني فائق النحافة 10.5 ملم ومستشعر نبضات 8 قنوات.",
+    "longDescription": "تتميز Honor Watch GS 3 بحزام جلدي فاخر وشاشة ألوان مبهرة مع شحن سريع 5 دقائق ليوم كامل.",
+    "price": 7800,
+    "originalPrice": 9000,
+    "discountPercent": 13,
+    "rating": 4.4,
+    "reviewsCount": 524,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "الشاشة": "1.43 بوصة AMOLED",
+      "البطارية": "14 يوماً",
+      "المادة": "ستانلس ستيل 316L"
+    },
+    "pros": [
+      "تصميم كلاسيكي ممتازة",
+      "شحن سريع جداً",
+      "شاشة عالية الوضوح"
+    ],
+    "cons": [
+      "لا تتصل بالواي فاي المباشر"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-044",
+    "name": "هايلو سولار بلس RT3 مع مكالمات بلوتوث",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة AMOLED 1.43 بوصة ومكالمات واضحة بسعر اقتصادي مذهل.",
+    "longDescription": "Haylou Solar Plus RT3 تقدم تجربة الساعات الذكية الممتازة بإجراء المكالمات وتتبع الصحة بأرخص سعر.",
+    "price": 2100,
+    "originalPrice": 2600,
+    "discountPercent": 19,
+    "rating": 4.4,
+    "reviewsCount": 145,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "الشاشة": "1.43 بوصة AMOLED",
+      "البطارية": "7 أيام",
+      "المكالمات": "بلوتوث مدمج"
+    },
+    "pros": [
+      "سعر اقتصادي جداً",
+      "شاشة AMOLED ممتازة",
+      "مكالمات واضحة الصوت"
+    ],
+    "cons": [
+      "تطبيق هاتف بسيط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-045",
+    "name": "شاومي ريدمي واتش 4 هيكل ألومنيوم",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة ضخمة 1.97 بوصة وإطار معدني وزر تاج دوار ستانلس ستيل.",
+    "longDescription": "Redmi Watch 4 تأتي بعمر بطارية يصل إلى 20 يوماً وشاشة واسعة جداً مريحة في قراءة الإشعارات.",
+    "price": 4600,
+    "originalPrice": 5300,
+    "discountPercent": 13,
+    "rating": 4.9,
+    "reviewsCount": 482,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشاشة": "1.97 بوصة LTPS AMOLED",
+      "البطارية": "20 يوماً",
+      "الهيكل": "إطار ألومنيوم"
+    },
+    "pros": [
+      "شاشة واسعة جداً",
+      "بطارية تدوم 20 يوماً",
+      "تاج دوار ممتع"
+    ],
+    "cons": [
+      "بدون تخزين موسيقى داخلي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-046",
+    "name": "سامسونج جلاكسي واش 5 برو تيتانيوم",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "بطارية ضخمة 590mAh وزجاج Sapphire وهيكل تيتانيوم لمغامرات الطرق.",
+    "longDescription": "Galaxy Watch 5 Pro تقدم ميزة التتبع الجغرافي العكسي Track Back وعمر بطارية هو الأطول في ساعات سامسونج.",
+    "price": 13900,
+    "originalPrice": 16000,
+    "discountPercent": 13,
+    "rating": 4.9,
+    "reviewsCount": 105,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "المقاس": "45 ملم تيتانيوم",
+      "البطارية": "80 ساعة",
+      "المزايا": "GPS Route Tracking"
+    },
+    "pros": [
+      "بطارية قوية جداً",
+      "خامات تيتانيوم وزجاج ياقوت",
+      "تتبع خرائط GPX"
+    ],
+    "cons": [
+      "سمك الساعة بارز"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-047",
+    "name": "أوراي مو واتش 3 برو Oraimo Watch 3 Pro",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ساعة المكالمات اليومية المقاومة للماء IP68 مع حزام إضافي.",
+    "longDescription": "تمنحك Oraimo Watch 3 Pro إجراء المكالمات بسهولة وتلقي رسائل واتساب مع بطارية تدوم 7 أيام.",
+    "price": 1850,
+    "originalPrice": 2300,
+    "discountPercent": 20,
+    "rating": 4.4,
+    "reviewsCount": 374,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الشاشة": "1.83 بوصة HD",
+      "البطارية": "7 أيام",
+      "المقاومة": "IP68"
+    },
+    "pros": [
+      "مقاومة ممتازة",
+      "سعر اقتصادي",
+      "سماعة مكالمات عالية"
+    ],
+    "cons": [
+      "الشاشة TFT وليست AMOLED"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-048",
+    "name": "جارمين فوررنر 265 للعدائين Garmin",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ساعة الجري الاحترافية بشاشة AMOLED ومؤشرات الجاهزية والتدريب.",
+    "longDescription": "الخيار الأول للعدائيين والرياضيين مع قياس طاقة الجري وحالة التدريب وتخطيط السباقات.",
+    "price": 24500,
+    "originalPrice": 27500,
+    "discountPercent": 11,
+    "rating": 4.3,
+    "reviewsCount": 498,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "الشاشة": "1.3 بوصة AMOLED",
+      "البطارية": "13 يوماً في وضع الساعة",
+      "GPS": "SATIQ multi-band"
+    },
+    "pros": [
+      "أدق نظام GPS وتحليلات رياضية",
+      "شاشة AMOLED واضحة",
+      "مؤشرات لياقة احترافية"
+    ],
+    "cons": [
+      "لا تدعم الرد الصوتي للمكالمات"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-049",
+    "name": "نويز كولور فيت ألترا Noise ColorFit Ultra",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة 1.75 بوصة وهيكل معدني أنيق لتتبع الأكسجين والقلب.",
+    "longDescription": "Noise ColorFit Ultra تقدم تصميم مميز يناسب الملابس الرسمية والرياضية مع قياس مستمر للضغط النفسي.",
+    "price": 1650,
+    "originalPrice": 2100,
+    "discountPercent": 21,
+    "rating": 4.3,
+    "reviewsCount": 484,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الشاشة": "1.75 بوصة TruView",
+      "البطارية": "9 أيام",
+      "الألوان": "أسود وفضي وزيتي"
+    },
+    "pros": [
+      "تصميم ألومنيوم أنيق",
+      "قياس مستمر للصحة",
+      "تنوع خلفيات الشاشة"
+    ],
+    "cons": [
+      "سطوع الشاشة تحت الشمس متوسط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-050",
+    "name": "أميزفيت GTR 4 بتصميم كلاسيكي رياضي",
+    "image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "هوائي GPS دائر بقطبية دائرية مع بطارية 14 يوماً وتتبع 150 رياضة.",
+    "longDescription": "تأتي Amazfit GTR 4 بتقنية التعرف التلقائي على تمارين القوة والحد من أخطاء التتبع الجغرافي.",
+    "price": 8400,
+    "originalPrice": 9600,
+    "discountPercent": 13,
+    "rating": 4.8,
+    "reviewsCount": 175,
+    "affiliateUrl": "",
+    "category": "Smart Watches",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الشاشة": "1.43 بوصة HD AMOLED",
+      "البطارية": "14 يوماً",
+      "GPS": "6 أنظمة أقمار صناعية"
+    },
+    "pros": [
+      "دقة فائقة في المسارات",
+      "بطارية ممتازة",
+      "مظهر أنيق وكلاسيكي"
+    ],
+    "cons": [
+      "لا يدعم دفع NFC محلي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-051",
+    "name": "سماعات آبل ايربودز برو 2 بمخرج USB-C",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "إلغاء ضوضاء نشط مضاعف وصوت مكاني مخصص مع علبة شحن USB-C.",
+    "longDescription": "تتميز AirPods Pro 2 بشريحة H2 المتطورة للتكيف الصوتي التلقائي وشفافية الصوت التكيفية لمنع الضوضاء المزعجة.",
+    "price": 13800,
+    "originalPrice": 15500,
+    "discountPercent": 11,
+    "rating": 4.4,
+    "reviewsCount": 490,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "المعالج": "Apple H2",
+      "البطارية": "6 ساعات (30 ساعة مع علبة الشحن)",
+      "المخرج": "USB Type-C"
+    },
+    "pros": [
+      "أفضل عزل ضوضاء لسماعة أذن",
+      "صوت مكاني غامر",
+      "علبة بها سماعة لتحديد الموقع"
+    ],
+    "cons": [
+      "سعر مرتفع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-052",
+    "name": "سماعات سوني WH-1000XM5 عزل الضوضاء",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أقوى سماعة فوق الأذن لإلغاء الضوضاء مع 8 ميكروفونات وبطارية 30 ساعة.",
+    "longDescription": "تعتبر Sony WH-1000XM5 ملكة العزل الصوتي مع مكالمات فائقة النقاء بفضل تقنية خفض ضوضاء الرياح بالذكاء الاصطناعي.",
+    "price": 18500,
+    "originalPrice": 21000,
+    "discountPercent": 12,
+    "rating": 4.7,
+    "reviewsCount": 257,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "نوع الاتصال": "بلوتوث 5.2 / 3.5mm",
+      "البطارية": "30 ساعة مع ANC",
+      "الوزن": "250 جرام"
+    },
+    "pros": [
+      "عزل ضوضاء لا يضاهى",
+      "راحة تامة في الارتداء",
+      "شحن سريع 3 دقائق لـ 3 ساعات"
+    ],
+    "cons": [
+      "غير قابلة للطي التقليدي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-053",
+    "name": "سماعة بوز كوايت كومفورت ألترا Bose Ultra",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "الصوت الغامر المبتكر Immersive Audio مع عزل Bose الأسطوري.",
+    "longDescription": "تقدم Bose QC Ultra تجربة استماع أوركسترالية حية مع تصميم قابل للطي ومواد فخمة مريحة جداً.",
+    "price": 21500,
+    "originalPrice": 24000,
+    "discountPercent": 10,
+    "rating": 4.5,
+    "reviewsCount": 214,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الموديل": "Bose QC Ultra",
+      "البطارية": "24 ساعة",
+      "التقنية": "Bose Immersive Audio"
+    },
+    "pros": [
+      "راحة استثنائية على الأذن",
+      "صوت محيطي تجسيمي",
+      "قابلية الطي وسهولة الحمل"
+    ],
+    "cons": [
+      "تطبيق الهاتف يحتاج تحسينات"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-054",
+    "name": "أنكر ساوند كور لايف Q30 إلغاء الضوضاء",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أفضل سماعة رأس اقتصادية مع 3 أوضاع لعزل الضوضاء وبطارية 40 ساعة.",
+    "longDescription": "Anker Soundcore Life Q30 تمنحك صوتاً عالي الدقة Hi-Res مع إمكانية ضبط التعادل EQ عبر تطبيق الهاتف.",
+    "price": 3900,
+    "originalPrice": 4800,
+    "discountPercent": 19,
+    "rating": 4.8,
+    "reviewsCount": 384,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "البطارية": "40 ساعة مع ANC / 60 ساعة بدون",
+      "الشحن": "USB-C",
+      "الوزن": "260 جرام"
+    },
+    "pros": [
+      "بطارية خرافية تدوم أسبوعاً",
+      "تخصيص كامل للصوت بالتطبيق",
+      "سعر ممتازة جداً"
+    ],
+    "cons": [
+      "حجم العلبة كبير"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-055",
+    "name": "سماعة جي بي إلم Tune 510BT اللاسلكية",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "صوت النقاء الشهير JBL Pure Bass وبطارية 40 ساعة متواصلة.",
+    "longDescription": "JBL Tune 510BT خفيفة الوزن للغاية وقابلة للطي وتدعم الاتصال بجهازين في نفس الوقت.",
+    "price": 2100,
+    "originalPrice": 2500,
+    "discountPercent": 16,
+    "rating": 4.4,
+    "reviewsCount": 333,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": true,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "البلوتوث": "5.0",
+      "البطارية": "40 ساعة",
+      "الشحن": "5 دقائق يعطي ساعتين"
+    },
+    "pros": [
+      "صوت باس بيس قوي",
+      "شحن سريع",
+      "خفيفة ومريحة"
+    ],
+    "cons": [
+      "بدون إلغاء ضوضاء نشط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-056",
+    "name": "سامسونج جلاكسي بودز 2 برو Galaxy Buds 2 Pro",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "صوت 24bit Hi-Fi وتصميم مدمج ومقاومة ماء IPX7.",
+    "longDescription": "توفر Galaxy Buds 2 Pro عزل ضوضاء ذكي وصوت استديو عالي النقاوة مع ملاءمة مريحة جداً للأذن.",
+    "price": 7200,
+    "originalPrice": 8500,
+    "discountPercent": 15,
+    "rating": 4.5,
+    "reviewsCount": 249,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الصوت": "24bit Hi-Fi Sound",
+      "المقاومة": "IPX7",
+      "البطارية": "18 ساعة مع العلبة"
+    },
+    "pros": [
+      "مقاومة ماء ممتازة للرياضة",
+      "صوت نقاء كريستالي",
+      "حجم صغير ومريح"
+    ],
+    "cons": [
+      "أفضل ميزاتها تعمل مع هواتف سامسونج"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-057",
+    "name": "شاومي ريدمي بودز 5 برو عزل 52dB",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "عزل ضوضاء عملاق 52dB ودعم ترميز الصوت عالي الدقة LDAC.",
+    "longDescription": "Redmi Buds 5 Pro تقدم أداء صوتياً يبهر الجميع مع محركات صوتية مزدوجة وبطارية تدوم 38 ساعة.",
+    "price": 3400,
+    "originalPrice": 4000,
+    "discountPercent": 15,
+    "rating": 4.4,
+    "reviewsCount": 122,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "العزل": "52dB ANC",
+      "الترميز": "LDAC Hi-Res",
+      "البطارية": "38 ساعة"
+    },
+    "pros": [
+      "عزل ضوضاء قوي جداً",
+      "دعم LDAC لترددات عالية",
+      "سعر اقتصادي منافس"
+    ],
+    "cons": [
+      "اللمس قد يكون حساساً"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-058",
+    "name": "هواوي فري بودز 5i بدعم الصوت عالي الدقة",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تصميم حجر الصوان الأنيق وعزل ضوضاء متعدد الأوضاع 42dB.",
+    "longDescription": "تأتي HUAWEI FreeBuds 5i بشهادة الصوت عالي الدقة Hi-Res ووزن خفيف جداً 4.9 جرام للسماعة.",
+    "price": 3200,
+    "originalPrice": 3800,
+    "discountPercent": 16,
+    "rating": 4.5,
+    "reviewsCount": 342,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "العزل": "42dB ANC",
+      "الوزن": "4.9g",
+      "البطارية": "28 ساعة"
+    },
+    "pros": [
+      "ملمس ومظهر فاخر",
+      "وزن خفيف للغاية",
+      "صوت متزن ونقي"
+    ],
+    "cons": [
+      "تطبيق الشحن بدون شحن لاسلكي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-059",
+    "name": "آبل ايربودز 3 العادية مع علبة MagSafe",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "صوت مكاني وتصميم مريح بدون سدادات سيليكون مع مقاومة عرق IPX4.",
+    "longDescription": "تمنحك Apple AirPods 3 راحة الاكتشاف اليومي والاستماع للآيفون دون انسداد الأذن.",
+    "price": 9500,
+    "originalPrice": 10800,
+    "discountPercent": 12,
+    "rating": 4.3,
+    "reviewsCount": 375,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "الصوت": "Spatial Audio",
+      "المقاومة": "IPX4",
+      "البطارية": "30 ساعة مع علبة MagSafe"
+    },
+    "pros": [
+      "مريحة لمن لا يحب سدادات الأذن",
+      "شحن لاسلكي MagSafe",
+      "جودة مكالمات ممتازة"
+    ],
+    "cons": [
+      "بدون عزل ضوضاء نشط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-060",
+    "name": "سنهايزر HD 450BT اللاسلكية فوق الأذن",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "صوت سنهايزر الألماني الأسطوري بعزل ضوضاء وبطارية 30 ساعة.",
+    "longDescription": "Sennheiser HD 450BT تقدم عمق باس مذهل وتدعم ترميز AAC و aptX Low Latency للألعاب والندوات.",
+    "price": 6800,
+    "originalPrice": 7900,
+    "discountPercent": 14,
+    "rating": 4.5,
+    "reviewsCount": 262,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": true,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الترميز": "aptX Low Latency",
+      "البطارية": "30 ساعة",
+      "الشحن": "USB-C"
+    },
+    "pros": [
+      "جودة صوت ألمانية نقية",
+      "تأخير صوتي منخفض جداً",
+      "تصميم متين وقابل للطي"
+    ],
+    "cons": [
+      "أزرار التحكم صغيرة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-061",
+    "name": "أنكر ساوند كور P20i الصغيرة بأداء قوي",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "سماعة أذن اقتصادية بمحركات 10mm وبطارية 30 ساعة مع شريط تعليق.",
+    "longDescription": "Anker Soundcore P20i هي خيار الجميع للتنقل اليومي بفضل مقاومة IPX5 و22 وضع صوتي جاهز.",
+    "price": 950,
+    "originalPrice": 1200,
+    "discountPercent": 21,
+    "rating": 4.4,
+    "reviewsCount": 508,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "المحركات": "10mm Drivers",
+      "المقاومة": "IPX5",
+      "البطارية": "30 ساعة"
+    },
+    "pros": [
+      "سعر اقتصادي للغاية",
+      "مقاومة للماء والعرق",
+      "مكالمات محسنة بـ AI"
+    ],
+    "cons": [
+      "علبة الشحن من البلاستيك الخفيف"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-062",
+    "name": "سوني WF-1000XM5 داخل الأذن اللاسلكية",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أصغر حجم بنسبة 25% وأفضل عزل ضوضاء من سوني مع محرك Dynamic Driver X.",
+    "longDescription": "Sony WF-1000XM5 تضع أحدث تقنيات المعالجة الصوتي المزدوجة في أذنك بلمسات ناعمة مريحة.",
+    "price": 12900,
+    "originalPrice": 14500,
+    "discountPercent": 11,
+    "rating": 4.8,
+    "reviewsCount": 442,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "المعالج": "Integrated Processor V2",
+      "الوزن": "5.9g للسماعة",
+      "البطارية": "24 ساعة"
+    },
+    "pros": [
+      "أفضل عزل في سماعات In-Ear",
+      "صوت غني بالتفاصيل",
+      "شحن لاسلكي"
+    ],
+    "cons": [
+      "سدادات الأذن تحتاج اعتاد"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-063",
+    "name": "ساوند بيتس إنجن 4 Soundpeats Engine 4",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "محركين صوتيين مزدوجين Dual Coaxial Drivers ودعم LDAC.",
+    "longDescription": "تقدم Soundpeats Engine 4 تفاصيل صوتية دقيقة لعشاق الموسيقى النقية مع اتصال بجهازين معاً.",
+    "price": 2400,
+    "originalPrice": 2900,
+    "discountPercent": 17,
+    "rating": 4.7,
+    "reviewsCount": 263,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "المحركات": "Coaxial Dual Drivers",
+      "الترميز": "LDAC",
+      "البطارية": "43 ساعة إجمالاً"
+    },
+    "pros": [
+      "تفاصيل صوتية خرافية في فئتها",
+      "عمر بطارية طويل جداً",
+      "تصميم شفاف جذاب"
+    ],
+    "cons": [
+      "بدون إلغاء ضوضاء نشط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-064",
+    "name": "باسيوس بوي M2 Baseus Bowie M2",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "عزل ضوضاء هجين -42dB وشحن سريع Baseus Rapid Charge.",
+    "longDescription": "Baseus Bowie M2 تأتي بـ 4 ميكروفونات لتصفية المكالمات وزمن تأخير منخفض 0.038 ثانية للجيمينج.",
+    "price": 1750,
+    "originalPrice": 2200,
+    "discountPercent": 20,
+    "rating": 4.5,
+    "reviewsCount": 154,
+    "affiliateUrl": "",
+    "category": "Headphones",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "العزل": "-42dB Hybrid ANC",
+      "التأخير": "0.038s Low Latency",
+      "البطارية": "30 ساعة"
+    },
+    "pros": [
+      "زمن تأخير منخفض جداً للألعاب",
+      "عزل ضوضاء ممتاز بالسعر",
+      "تطبيق تحكم سلس"
+    ],
+    "cons": [
+      "الخامة خارجية تلمع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-065",
+    "name": "غسالة ملابس تورنيدو فوق أوتوماتيك 13 كيلو",
+    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "طلمبة صرف مدمجة، باب هيدروليك زجاجي ومحرك إنفرتر موفر للكهرباء.",
+    "longDescription": "غسالة Tornado سعة 13 كجم تناسب العائلات الكبيرة، توفر في استهلاك المياه والكهرباء مع برنامج تنظيف حوض الغسيل تلقائياً.",
+    "price": 18500,
+    "originalPrice": 20500,
+    "discountPercent": 10,
+    "rating": 4.7,
+    "reviewsCount": 86,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "السعة": "13 كجم",
+      "نوع التحميل": "علوي فوق أوتوماتيك",
+      "اللون": "سيلفر غامق",
+      "الضمان": "5 سنوات"
+    },
+    "pros": [
+      "سعة كبيرة ملائمة للأغطية والبطانيات",
+      "باب زجاجي هيدروليك آمن",
+      "محرك إنفرتر هادئ"
+    ],
+    "cons": [
+      "تستهلك مساحة أفقية أكبر"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-066",
+    "name": "ثلاجة شارب ديجيتال نوفروست 450 لتر",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تقنية البلازما كلاستر لتنقية الهواء ومنع العفن ورائحة الأطعمة.",
+    "longDescription": "ثلاجة Sharp المزدوجة توفر تبريداً متوازناً في جميع الأركان مع شاشة تحكم ديجيتال خارجية وإضاءة LED داخلية قوية.",
+    "price": 34500,
+    "originalPrice": 38000,
+    "discountPercent": 9,
+    "rating": 4.8,
+    "reviewsCount": 116,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "السعة": "450 لتر (16 قدم)",
+      "التقنية": "PlasmaCluster",
+      "اللون": "أسود زجاجي",
+      "الضمان": "10 سنوات"
+    },
+    "pros": [
+      "حفظ الخضروات طازجة لفترة طويلة",
+      "تصميم أسود مودرن",
+      "ضمان 10 سنوات موثوق"
+    ],
+    "cons": [
+      "تحتاج حذر عند تنظيف الزجاج الخارجي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-067",
+    "name": "تكييف كاريير كرافت 1.5 حصان إنفرتر بارد/ساخن",
+    "image": "https://images.unsplash.com/photo-1614633833026-0e2053784102?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1614633833026-0e2053784102?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "توفير حتى 50% في الكهرباء بتكنولوجيا Inverter وتبريد سريع Turbo.",
+    "longDescription": "تكييف Carrier Optimax Inverter يغطي مساحة حتى 12 متر مربع بكفاءة فائقة مع فلاتر نانو لتنقية الهواء من الأتربة.",
+    "price": 29500,
+    "originalPrice": 32500,
+    "discountPercent": 9,
+    "rating": 4.7,
+    "reviewsCount": 474,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "القوة": "1.5 حصان",
+      "النوع": "إنفرتر بارد / ساخن",
+      "المساحة المغطاة": "حتى 12 م²",
+      "الفريون": "R410a صديق البيئة"
+    },
+    "pros": [
+      "توفير هائل في فاتورة الكهرباء",
+      "تبريد ثلجي سريع جداً",
+      "عمل هادئ بدون صوت"
+    ],
+    "cons": [
+      "تكلفة التركيب أول مرة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-068",
+    "name": "شاشة تورنيدو 55 بوصة سمارت 4K مع أندرويد",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "بدقة 4K UHD ونظام Android TV لمشاهدة نتفليكس وشاهد وشاهد البث المباشر.",
+    "longDescription": "تمنحك شاشة Tornado 55 صورة ناصعة وبصوت Dolby Digital Plus مع ريموت فرنسي مدعم بالتحكم الصوتي.",
+    "price": 17200,
+    "originalPrice": 19500,
+    "discountPercent": 12,
+    "rating": 4.9,
+    "reviewsCount": 301,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الحجم": "55 بوصة",
+      "الدقة": "4K UHD 3840x2160",
+      "النظام": "Android 11 TV",
+      "المنافذ": "3 HDMI / 2 USB"
+    },
+    "pros": [
+      "نظام أندرويد كامل وسريع",
+      "ألوان زاهية وتباين ممتازة",
+      "ضمان العربي جروب 3 سنوات"
+    ],
+    "cons": [
+      "السماعات المدمجة متوسطة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-069",
+    "name": "مكنسة كهربائية باناسونيك 2000 واط برميلية",
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "صناعة يابانية، سعة غبار ضخمة 18 لتر وهيكل معدني شديد الصلابة.",
+    "longDescription": "مكنسة Panasonic البرميلية صممت للتنظيف الشاق في المنازل الكبيرة والسجاد الثقيل بفضل طرد الهواء الشديد وشفط الأتربة.",
+    "price": 7800,
+    "originalPrice": 8900,
+    "discountPercent": 12,
+    "rating": 4.8,
+    "reviewsCount": 333,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "القوة": "2000 واط",
+      "السعة": "18 لتر",
+      "الصنع": "صنع في يابان",
+      "طول السلك": "8 متر"
+    },
+    "pros": [
+      "شفط قوي جداً لا يضعف",
+      "سعة برميل ضخمة لا تحتاج تفريغ مستمر",
+      "متانة يابانية عالية"
+    ],
+    "cons": [
+      "صوتها مرتفع نسبياً"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-070",
+    "name": "مروحة سقف توشيبا 56 بوصة مع موزع هواء",
+    "image": "https://images.unsplash.com/photo-1614633833026-0e2053784102?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1614633833026-0e2053784102?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "موتور شاق يعمل لسنوات ومزودة بـ 5 سرعات ومفتاح جداري.",
+    "longDescription": "مروحة Toshiba الشهيرة بالاعتمادية توزيع هواء قوي في الغرف الصيفية الساخنة بدون اهتزاز.",
+    "price": 1850,
+    "originalPrice": 2200,
+    "discountPercent": 16,
+    "rating": 4.7,
+    "reviewsCount": 520,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "المقاس": "56 بوصة",
+      "السرعات": "5 سرعات",
+      "الموتور": "موتور نحاسي نقي",
+      "الضمان": "5 سنوات"
+    },
+    "pros": [
+      "عمر افتراضي طويل جداً",
+      "توزيع هواء واسع",
+      "عمل هادئ بدون صفير"
+    ],
+    "cons": [
+      "تحتاج فني للتركيب"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-071",
+    "name": "مكواة بخار تورنيدو 2200 واط قاعدة سيراميك",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "قاعدة سيراميك مانعة للالتصاق وخاصية التنظيف الذاتي ومنع التنقيط.",
+    "longDescription": "تساعدك مكواة Tornado على فرد أصعب التكعيدات في الملابس والقمصان بسرعة بضخ بخار عمودي قوي.",
+    "price": 1450,
+    "originalPrice": 1750,
+    "discountPercent": 17,
+    "rating": 4.6,
+    "reviewsCount": 451,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "القوة": "2200 واط",
+      "القاعدة": "Ceramic",
+      "خزان المياه": "300 مل"
+    },
+    "pros": [
+      "انزلاق سلس على جميع الأقمشة",
+      "تسخين سريع في ثوانٍ",
+      "بخار عمودي للستائر والبدل"
+    ],
+    "cons": [
+      "سلك المكواة متوسط الطول"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-072",
+    "name": "شاشة سامسونج 65 بوصة QLED 4K سمارت",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تكنولوجيا Quantum Dot لمليار لون نقي ومعالج Quantum Processor 4K.",
+    "longDescription": "تأتي شاشة Samsung QLED بنظام تايزن الذكي وتصميم نحيف للغاية AirSlim بدون حواف تقريباً.",
+    "price": 36500,
+    "originalPrice": 41000,
+    "discountPercent": 11,
+    "rating": 4.9,
+    "reviewsCount": 407,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "الحجم": "65 بوصة QLED",
+      "الدقة": "4K 3840x2160",
+      "النظام": "Tizen OS",
+      "معدل التحديث": "100Hz"
+    },
+    "pros": [
+      "ألوان QLED مبهرة جداً",
+      "ريموت يعمل بالطاقة الشمسية",
+      "ممتازة لألعاب البلايستيشن 5"
+    ],
+    "cons": [
+      "سعرها مرتفع نسبياً"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-073",
+    "name": "ديب فريزر كريازي 5 درج نوفروست ديجيتال",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تجميد سريع وسعة تخزين ممتازة مع أدراج شفافة مقواة وشاشة ديجيتال.",
+    "longDescription": "ديب فريزر Kiriazi يوفر أعلى معايير حفظ اللحوم والأطعمة بدون تكوين ثلج إطلاقاً.",
+    "price": 24800,
+    "originalPrice": 27500,
+    "discountPercent": 10,
+    "rating": 4.3,
+    "reviewsCount": 313,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الأدراج": "5 أدراج كبيرة",
+      "التقنية": "NoFrost",
+      "اللون": "ستانلس ستيل"
+    },
+    "pros": [
+      "تجميد قوي جداً سريع",
+      "أدراج واسعة وقوية التحمل",
+      "عزل حراري موفر للكهرباء"
+    ],
+    "cons": [
+      "صوت التجميد المبدئي ظاهر"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-074",
+    "name": "تكييف شارب 2.25 حصان بارد/ساخن إنفرتر",
+    "image": "https://images.unsplash.com/photo-1614633833026-0e2053784102?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1614633833026-0e2053784102?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "يغطي حتى 18 متر مربع بتقنية بلازما كلاستر وشاشة عرض درجة الحرارة.",
+    "longDescription": "تكييف Sharp الرائد يمنحك التبريد والتدفئة المثالية في الصيف والشتاء مع توفير هائل في الطاقة الكهربائية.",
+    "price": 41000,
+    "originalPrice": 45000,
+    "discountPercent": 9,
+    "rating": 4.7,
+    "reviewsCount": 370,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "القوة": "2.25 حصان",
+      "المساحة": "حتى 18 م²",
+      "التكنولوجيا": "Inverter Digital"
+    },
+    "pros": [
+      "تغطية واسعة للصالات والغرف الكبيرة",
+      "تنقية الهواء من الفيروسات",
+      "ضمان 5 سنوات شامل"
+    ],
+    "cons": [
+      "يحتاج مفتاح أوتوماتيك مخصص"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-075",
+    "name": "غسالة أطباق بيكو 14 فرد ستانلس ستيل",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "6 برامج طهي وغسيل بما فيها برنامج التعقيم وغسيل السريع 30 دقيقة.",
+    "longDescription": "غسالة الأواني Beko تجعل تنظيف الصحون والأواني بعد العزائم أمراً ممتعاً مع تجفيف حراري تام.",
+    "price": 21500,
+    "originalPrice": 24000,
+    "discountPercent": 10,
+    "rating": 4.8,
+    "reviewsCount": 259,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": true,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "السعة": "14 فرد",
+      "البرامج": "6 برامج",
+      "المرشات": "مرشات CornerIntense 3D"
+    },
+    "pros": [
+      "توفير هائل في المياه والوقت",
+      "تعقيم حراري بدرجة 70°C",
+      "رف أدوات علوي إضافي"
+    ],
+    "cons": [
+      "تحتاج مسحوق وملمع مخصص"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-076",
+    "name": "مكنسة سامسونج برميلية 2100 واط",
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "فلتر هيبا HEPA لمنع تسرب الغبار الدقيق وسعة غبار 20 لتر.",
+    "longDescription": "Samsung Power Cyclone تمنحك قوة شفط توربينية مع عجلات كبيرة لسحب المكنسة بسلاسة على السجاد.",
+    "price": 8900,
+    "originalPrice": 10200,
+    "discountPercent": 13,
+    "rating": 4.5,
+    "reviewsCount": 267,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "القوة": "2100 واط",
+      "الفلتر": "HEPA Filter",
+      "السعة": "20 لتر"
+    },
+    "pros": [
+      "فلترة ممتازة للحساسية",
+      "أنبوب معدني تلسكوبي متين",
+      "سلك طويل جداً"
+    ],
+    "cons": [
+      "الوزن ثقيل أثناء صعود السلالم"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-077",
+    "name": "شاشة إل جي 50 بوصة 4K UHD سمارت",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "معالج α5 Gen6 AI ورسيفر داخلي مدمج وريموت ماجيك ذكي LG Magic Remote.",
+    "longDescription": "استمتع بالتحكم بالماوس الهوائي مع LG WebOS 23 للوصول لكافة التطبيقات والألعاب.",
+    "price": 18900,
+    "originalPrice": 21500,
+    "discountPercent": 12,
+    "rating": 4.6,
+    "reviewsCount": 473,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "الحجم": "50 بوصة",
+      "الدقة": "4K UHD 3840x2160",
+      "النظام": "webOS 23",
+      "الريموت": "Magic Remote"
+    },
+    "pros": [
+      "ريموت الماجيك السحري الممتع",
+      "زوايا رؤية واضحة",
+      "صوت ذكي موجه AI Sound"
+    ],
+    "cons": [
+      "سطوع متوسط في الغرف شديدة الإضاءة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-078",
+    "name": "سخان مياه غاز أريستون 10 لتر ديجيتال",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة عرض درجة الحرارة وإشعال ذاتي أوتوماتيك مع أعلى أنظمة الأمان.",
+    "longDescription": "سخان Ariston الغاز الإيطالي يوفر مياه ساخنة فورية مستمرة مع صمام أمان يفصل الغاز عند انطفاء الشعلة.",
+    "price": 5400,
+    "originalPrice": 6200,
+    "discountPercent": 13,
+    "rating": 4.7,
+    "reviewsCount": 438,
+    "affiliateUrl": "",
+    "category": "Home Appliances",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "السعة": "10 لتر",
+      "نوع الغاز": "غاز طبيعي / أسطوانة",
+      "الشاشة": "Digital Display"
+    },
+    "pros": [
+      "تسخين مياه فوري بدون انتظام",
+      "أنظمة أمان إيطالية ثلاثية",
+      "شاشة تحكم دقيقة"
+    ],
+    "cons": [
+      "يحتاج إدخال مدخنة خارجية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-079",
+    "name": "خلاط براون ملتي كويك 9 يدوي 1200 واط",
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تقنية ActiveBlade لتحريك الشفرات عمودياً وفرم الصلب بسرعة.",
+    "longDescription": "Braun MultiQuick 9 يعتبر أقوى هاند بلندر للمطبخ مع كبة ودورق ومضرب بيض لجميع الوصفات.",
+    "price": 7900,
+    "originalPrice": 8900,
+    "discountPercent": 11,
+    "rating": 4.8,
+    "reviewsCount": 334,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "القوة": "1200 واط",
+      "الملحقات": "كبة 1.5 لتر + دورق + مضرب",
+      "الشفرات": "ActiveBlade Stainless"
+    },
+    "pros": [
+      "فرم أصلب المكونات كالمكسرات والثلج",
+      "تحكم ذكي بالسرعة بضغطة الأصبع",
+      "خامات ألمانية عالية"
+    ],
+    "cons": [
+      "السعر مرتفع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-080",
+    "name": "قلاية بدون زيت فيليبس XXL سعة 7.2 لتر",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تقنية Rapid CombiAir للطهي الذكي وتوصيل بالتطبيق عبر WiFi.",
+    "longDescription": "Philips Airfryer XXL تتيح لك قلي وطهي دجاجة كاملة أو 1.4 كجم بطاطس بزيوت أقل بنسبة 90%.",
+    "price": 14200,
+    "originalPrice": 16000,
+    "discountPercent": 11,
+    "rating": 4.6,
+    "reviewsCount": 341,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "السعة": "7.2 لتر (1.4 كجم)",
+      "القوة": "2000 واط",
+      "الاتصال": "WiFi App Control"
+    },
+    "pros": [
+      "طعام صحي مقرمش جداً",
+      "سعة ضخمة للوجبات العائلية",
+      "برامج طهي ذكية بالتطبيق"
+    ],
+    "cons": [
+      "تأخذ مساحة على سطح المطبخ"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-081",
+    "name": "ماكينة اسبريسو ديلونجي ديديكا EC685 ستانلس",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "مضخة 15 بار بعرض 15 سم فقط مع عصا تبخير الحليب الاحترافية.",
+    "longDescription": "صممت DeLonghi Dedica لعشاق القهوة لاستخلاص اسبريسو غني بالكريمة وتحضير الكابتشينو.",
+    "price": 11200,
+    "originalPrice": 12800,
+    "discountPercent": 13,
+    "rating": 4.8,
+    "reviewsCount": 107,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "الضغط": "15 bar",
+      "العرض": "15 cm",
+      "جسم الماكينة": "ستانلس ستيل مصقول"
+    },
+    "pros": [
+      "حجم نحيف أنيق جداً",
+      "تسخين سريع في 35 ثانية",
+      "استخلاص قهوة احترافي"
+    ],
+    "cons": [
+      "المكبس المرفق بلاستيك"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-082",
+    "name": "ميكروويف شارب 25 لتر بالشواية 900 واط",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "شاشة تحكم ديجيتال، 8 برامج طهي تلقائي وشواية لجميع الأطعمة.",
+    "longDescription": "ميكروويف Sharp يدمج بين التسخين السريع وإذابة التجميد بالوزن مع شواية لإعطاء لون ذهبي مقرمش.",
+    "price": 6800,
+    "originalPrice": 7800,
+    "discountPercent": 13,
+    "rating": 4.4,
+    "reviewsCount": 483,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "السعة": "25 لتر",
+      "قوة الميكروويف": "900 واط",
+      "قوة الشواية": "1000 واط"
+    },
+    "pros": [
+      "سهل الاستخدام بزر دقيقة واحدة",
+      "مزود بشواية علوية",
+      "سهل التنظيف من الداخل"
+    ],
+    "cons": [
+      "المرآة السوداء تحتاج تنظيف مستمر"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-083",
+    "name": "صانعة القهوة التركية تورنيدو بمستشعر منع الفوران",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "سعة 4 فناجين قهوة مع التنبيه الصوتي والضوئي عند اكتمال الوش.",
+    "longDescription": "تمنحك ماكينة Tornado القهوة التركية المضبوطة بوش ثريف في أقل من دقيقتين دون خوف من الفوران.",
+    "price": 2450,
+    "originalPrice": 2900,
+    "discountPercent": 16,
+    "rating": 4.3,
+    "reviewsCount": 506,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "السعة": "4 فناجين (330 مل)",
+      "القوة": "735 واط",
+      "التقنية": "مستشعر الذكاء الاصطناعي لمنع الفوران"
+    },
+    "pros": [
+      "وش قهوة مظبوط ومضمون",
+      "تتوقف تلقائياً بإنذار صوتي",
+      "سريعة ونظيفة الاستخدام"
+    ],
+    "cons": [
+      "الوعاء يغسل يدوياً حرصاً على الملامسات"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-084",
+    "name": "محضر طعام ميانتا 1000 واط 28 وظيفة",
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "خلاط، كبة، عصارة موالح، سلاح بشر وتقطيع وعجان مدمج.",
+    "longDescription": "Mienta Food Processor يغنيك عن شراء عدة أجهزة بفضل ملحقاته الـ 28 المتنوعة لمطبخك.",
+    "price": 4600,
+    "originalPrice": 5300,
+    "discountPercent": 13,
+    "rating": 4.8,
+    "reviewsCount": 373,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "القوة": "1000 واط",
+      "سعة الوعاء": "1.5 لتر",
+      "سعة الخلاط": "1.5 لتر"
+    },
+    "pros": [
+      "تنوع هائل في الملحقات",
+      "موتور قوي للفرم والعجن",
+      "قواعد تثبيت مانعة للانزلاق"
+    ],
+    "cons": [
+      "حفظ الملحقات يحتاج درج مخصص"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-085",
+    "name": "عجان كينوود تشيف 1200 واط وعاء 6.7 لتر",
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "عجان احترافي للمخبوزات الثقيلة والحلويات مع 3 أدوات ستانلس ستيل.",
+    "longDescription": "Kenwood Chef XL يخلط ويعجن أكبر كميات العجين بسلاسة بفضل حركة الخلط الكوكبية المبتكرة.",
+    "price": 23500,
+    "originalPrice": 26500,
+    "discountPercent": 11,
+    "rating": 4.5,
+    "reviewsCount": 144,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": true,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "القوة": "1200 واط",
+      "سعة الوعاء": "6.7 لتر ستانلس",
+      "السرعات": "تحكم إلكتروني متغير"
+    },
+    "pros": [
+      "قوة وقدرة تحمّل خرافية للعجين",
+      "وعاء ضخم يكفي الكميات الكبيرة",
+      "إمكانية تركيب ملحقات فرعية"
+    ],
+    "cons": [
+      "وزن الجهاز ثقيل"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-086",
+    "name": "غلاية مياه كينوود ستانلس 1.7 لتر 2200 واط",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "غليان سريع للمياه مع مؤشر إضاءة وفلتر ترسبات قابل للغسيل.",
+    "longDescription": "غلاية Kenwood المصنوعة من الفولاذ المقاوم للصدأ تضمن لك مياه غليان نقية للمشروبات الساخنة.",
+    "price": 1650,
+    "originalPrice": 1950,
+    "discountPercent": 15,
+    "rating": 4.7,
+    "reviewsCount": 469,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "السعة": "1.7 لتر",
+      "القوة": "2200 واط",
+      "المادة": "Stainless Steel 304"
+    },
+    "pros": [
+      "تسخين سريع جداً للمياه",
+      "فصل أوتوماتيك عند الغليان أو الجفاف",
+      "مظهر ستانلس أنيق"
+    ],
+    "cons": [
+      "جسم الغلاية يسخن من الخارج"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-087",
+    "name": "مضرب بيض مع عجان تورنيدو 400 واط",
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "وعاء يدور أوتوماتيكياً مع 5 سرعات وزر تربو ومضربين للخبز.",
+    "longDescription": "تأتي مجموعة Tornado اليدوية والمكتبية لتسهيل عمل الكيك والحلويات والديد الخفيف للبيتزا.",
+    "price": 1250,
+    "originalPrice": 1500,
+    "discountPercent": 17,
+    "rating": 4.4,
+    "reviewsCount": 512,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "القوة": "400 واط",
+      "السرعات": "5 سرعات + Turbo",
+      "سعة الوعاء": "3 لتر"
+    },
+    "pros": [
+      "يمكن استخدامه يدوي أو على القاعدة",
+      "سعر اقتصادي جداً",
+      "سهل الفك والغسيل"
+    ],
+    "cons": [
+      "مناسب للعجين الخفيف فقط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-088",
+    "name": "شواية كهربائية كينوود 2000 واط لوحين مزدوجين",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ألواح قابلة للإزالة وغير لاصقة مع صينية تجميع الدهون لشواء صحي.",
+    "longDescription": "Kenwood Health Grill تتيح لك عمل الساندوتشات والستيك والدجاج المشوي بدون أدخنة كثيفة.",
+    "price": 4200,
+    "originalPrice": 4800,
+    "discountPercent": 13,
+    "rating": 4.8,
+    "reviewsCount": 115,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "القوة": "2000 واط",
+      "الألواح": "Non-stick Removable",
+      "الفتح": "180 درجة شواية مفتوحة"
+    },
+    "pros": [
+      "سهولة غسل الألواح بفضل فكها",
+      "فتح 180 درجة لشواء عائلي",
+      "تجميع الزيوت الزائدة"
+    ],
+    "cons": [
+      "تستهلك طاقة 2000W"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-089",
+    "name": "عصارة فواكه جافة تورنيدو 150 واط عصارة بطيئة",
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تقنية العصر البطيء Slow Juicer للحفاظ على الفيتامينات والأنزيمات.",
+    "longDescription": "تستخلص Tornado Slow Juicer أكبر كمية عصير صبيغي من الرمان والرموش والخضروات بدون حرارة.",
+    "price": 3800,
+    "originalPrice": 4400,
+    "discountPercent": 14,
+    "rating": 4.4,
+    "reviewsCount": 146,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "التقنية": "Cold Press Slow Juicing",
+      "القوة": "150 واط",
+      "مستوى الضوضاء": "منخفض جداً"
+    },
+    "pros": [
+      "عصير طازج غني بالفيتامينات",
+      "عصر أقصى كمية بدون هدر",
+      "صوت هادئ جداً"
+    ],
+    "cons": [
+      "تحتاج تقطيع الخضروات قطع صغيرة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-090",
+    "name": "فرن كهربائي فريش 48 لتر بالشواية والمروحة",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "مزود بمروحة توزيع الحرارة وشواية دجاج متحركة وإضاءة داخلية.",
+    "longDescription": "فرن Fresh 48L يمنحك تسوية متساوية للمخبوزات والصواني بفضل مروحة التوزيع والتايمر 90 دقيقة.",
+    "price": 3600,
+    "originalPrice": 4200,
+    "discountPercent": 14,
+    "rating": 4.7,
+    "reviewsCount": 173,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": true,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "السعة": "48 لتر",
+      "القوة": "2000 واط",
+      "المزايا": "مروحة + شواية + إضاءة"
+    },
+    "pros": [
+      "سعة ممتازة تكفي الصواني الكبيرة",
+      "توزيع حرارة متساوي بالمروحة",
+      "سعر اقتصادي موفر"
+    ],
+    "cons": [
+      "الزجاج الخارجي يسخن أثناء التشغيل"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-091",
+    "name": "توستر ميانتا 2 شريحة للتحمير 850 واط",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "7 مستويات للتحمير مع زر إلغاء وإذابة التجميد لصينية فتات قابلة للسحب.",
+    "longDescription": "Mienta Toaster يمنحك التوست المقرمش الساخن في الصباح مع درج التخلص من الفتات لسهولة النظافة.",
+    "price": 1100,
+    "originalPrice": 1350,
+    "discountPercent": 19,
+    "rating": 4.4,
+    "reviewsCount": 185,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "السعة": "2 slice",
+      "القوة": "850 واط",
+      "المستويات": "7 Browning Controls"
+    },
+    "pros": [
+      "تحمير متساوي للخبز",
+      "درج فتات قابل للغسيل",
+      "حجم مدمج لا يشغل مساحة"
+    ],
+    "cons": [
+      "للخبز الشريحي التوست فقط"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-092",
+    "name": "طقم أواني طهي جرانيت نيوفلام 10 قطع كوري",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "طلاء جرانيت صحي خالي من PFOA مع أغطية زجاجية بالبخار.",
+    "longDescription": "طقم حلل Neoflam الكوري يضمن لك عدم التصاق الطعام وسهولة التغسيل بفضل طلاء Ecolon الطبيعي.",
+    "price": 8900,
+    "originalPrice": 10200,
+    "discountPercent": 13,
+    "rating": 4.4,
+    "reviewsCount": 434,
+    "affiliateUrl": "",
+    "category": "Kitchen",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "القطع": "10 قطع (4 حلل + مقلاة + مقلاة غمقية)",
+      "الطلاء": "Ecolon Natural Granite",
+      "الصنع": "كوريا الجنوبية"
+    },
+    "pros": [
+      "صحي آمن 100% بدون مواد ضارة",
+      "عدم التصاق تام وسهل التنظيف",
+      "توزيع حراري عالي"
+    ],
+    "cons": [
+      "يفضل استخدام ملاعق سيليكون"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-093",
+    "name": "ماكينة حلاقة براون السلسلة 9 برو المائية",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أفضل ماكينة حلاقة ذقن كهربائية في العالم مع قاعدة التنظيف والشحن الذكية.",
+    "longDescription": "Braun Series 9 Pro تقص شعر الذقن الصعب والمنبطح بفضل 5 عناصر حلاقة وتقنية الذكاء الاصطناعي لتعديل القوة.",
+    "price": 15800,
+    "originalPrice": 17500,
+    "discountPercent": 10,
+    "rating": 4.5,
+    "reviewsCount": 178,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "الأكثر مبيعاً",
+    "specs": {
+      "النوع": "حلاقة جافة ورطبة Wet&Dry",
+      "البطارية": "60 دقيقة",
+      "قاعدة الصيانة": "SmartCare Center 6in1"
+    },
+    "pros": [
+      "نعومة تشبه شفرة الموس بدون تهيج",
+      "قاعدة تنظيف وتعقيم أوتوماتيكية",
+      "صناعة ألمانية رفيعة"
+    ],
+    "cons": [
+      "سعر مرتفع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-094",
+    "name": "ماكينة قص الشعر فيليبس مالتي جرووم 7000",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "18 أداة لتنعيم وتقذيب الشعر والذقن والجسم بشفرات DualCut الشاحذة ذاتياً.",
+    "longDescription": "Philips Multigroom Series 7000 تمنحك حلاقة شاملة للرأس والوجه مع هيكل ألومنيوم مقاوم للماء 100%.",
+    "price": 3600,
+    "originalPrice": 4200,
+    "discountPercent": 14,
+    "rating": 4.7,
+    "reviewsCount": 89,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الأدوات": "18 أداة تشذيب",
+      "البطارية": "5 ساعات (ليثيوم أيون)",
+      "المقاومة": "100% Waterproof"
+    },
+    "pros": [
+      "عمر بطارية خيالي 5 ساعات",
+      "شفرات فولاذية لا تصدأ",
+      "مقاومة ماء كاملة تحت الدش"
+    ],
+    "cons": [
+      "حقيبة التخزين القماشية بسيطة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-095",
+    "name": "مجفف شعر دايسون سوبرسونيك الاحترافي Dyson",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تجفيف سريع بدون حرارة مفرطة لحماية لمعان وقوة الشعر الطبيعي.",
+    "longDescription": "يتميز Dyson Supersonic بموتور V9 الرقمي في المقبض لقياس درجة الحرارة 40 مرة بالثانية مع 5 ملحقات مغناطيسية.",
+    "price": 24500,
+    "originalPrice": 27000,
+    "discountPercent": 9,
+    "rating": 4.6,
+    "reviewsCount": 248,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الموتور": "Dyson V9 Digital",
+      "الحرارة": "التحكم الذكي بالحرارة",
+      "الملحقات": "5 ملحقات مغناطيسية"
+    },
+    "pros": [
+      "حماية كاملة للشعر من التقصف",
+      "سرعة تجفيف قياسية",
+      "وزن متزن ومريح باليد"
+    ],
+    "cons": [
+      "سعر استثماري عالي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-096",
+    "name": "فرشاة أسنان أورال بي Genius X بالذكاء الاصطناعي",
+    "image": "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "مستشعرات حركة تتبع أسلوب تنظيفك وتوجهك لتغطية جميع الأسنان.",
+    "longDescription": "Oral-B Genius X توفر تنظيفاً احترافياً كعيادة الأسنان بإزالة البلاك بنسبة 100% مع حافظة سفر تشحن الهاتف.",
+    "price": 6400,
+    "originalPrice": 7200,
+    "discountPercent": 11,
+    "rating": 4.4,
+    "reviewsCount": 162,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "الأوضاع": "6 أوضاع تنظيف",
+      "التقنية": "Position Detection AI",
+      "البطارية": "أسبوعين"
+    },
+    "pros": [
+      "تنظيف عميق وإزالة الصبغات",
+      "تنبيه عند الضغط الزائد على اللثة",
+      "حافظة سفر ذكية USB"
+    ],
+    "cons": [
+      "رؤوس الغيار تحتاج شراء دوري"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-097",
+    "name": "مكواة شعر بيبي ليس بالبخار ايلس آند ستيم",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "ترطيب الشعر بالبخار أثناء الفرد لشعر ناعم ومفرود يدوم طويلاً.",
+    "longDescription": "BaByliss I-Pro 235 Steam تمنحك نتائج الصالون بالمنزل مع ألواح السيراميك العريضة ومشط مدمج لتفكيك التشابك.",
+    "price": 4200,
+    "originalPrice": 4900,
+    "discountPercent": 14,
+    "rating": 4.5,
+    "reviewsCount": 220,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الحرارة": "تصل حتى 235°C",
+      "ألواح": "Titanium Ceramic",
+      "التقنية": "Steam Technology"
+    },
+    "pros": [
+      "ترطيب الشعر ومنع جفافه بالبخار",
+      "فرد سريع للشعر الكثيف والمجعد",
+      "سلك دوار طويل"
+    ],
+    "cons": [
+      "يحتاج ملء خزان الماء مقطر"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-098",
+    "name": "ماكينة إزالة الشعر براون سيلك إبيل 9 فليكس",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "أول رأس مرن بالكامل في العالم لإزالة الشعر بسهولة في انحناءات الجسم.",
+    "longDescription": "Braun Silk-Épil 9 Flex تزيل ألياف الشعر القصرة حتى 0.5 ملم مع تقنية Micro-Grip ورأس تدليك وتنعيم.",
+    "price": 8900,
+    "originalPrice": 9900,
+    "discountPercent": 10,
+    "rating": 4.3,
+    "reviewsCount": 136,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Noon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "الرأس": "360° Fully Flexible Head",
+      "الملاقط": "40 Micro-Grip Tweezers",
+      "الاستخدام": "تحت الماء 100%"
+    },
+    "pros": [
+      "تصل لأصعب المناطق بسهولة",
+      "إزالة الشعر من الجذور لـ 4 أسابيع",
+      "تأتي مع ملحقات تقشير وترميم"
+    ],
+    "cons": [
+      "شعور بالنغز للمبتدئين"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-099",
+    "name": "مجفف شعر بيبي ليس 2300 واط إيطالي الصنع",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "موتور AC احترافي تدفق هواء 120 كم/ساعة مع تكنولوجيا الأيونات.",
+    "longDescription": "BaByliss Hydro-Fusion السريع المصنوع في إيطاليا يقضي على الهيشان ويضفي لمعاناً طبيعياً.",
+    "price": 2450,
+    "originalPrice": 2850,
+    "discountPercent": 14,
+    "rating": 4.6,
+    "reviewsCount": 269,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "القوة": "2300 واط",
+      "الموتور": "AC Motor إيطالي",
+      "السرعات": "2 سرعة / 3 درجات حرارة"
+    },
+    "pros": [
+      "موتور قوي يدوم لسنوات",
+      "هواء بارد لتثبيت التسريحة",
+      "تكنولوجيا الأيونات لمنع الهيشان"
+    ],
+    "cons": [
+      "صوت الموتور AC قوي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-100",
+    "name": "فرشاة تجفيف وفرد الشعر راش براش V2 الجيل الثاني",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تجفيف وفرد الشعر في خطوة واحدة بتكنولوجيا السيراميك والتورمالين.",
+    "longDescription": "Rush Brush Volumizer V2 تمنح شعرك حجماً جذاباً ونعومة سريعة قبل الخروج في دقائق معدودة.",
+    "price": 2100,
+    "originalPrice": 2500,
+    "discountPercent": 16,
+    "rating": 4.5,
+    "reviewsCount": 282,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "القوة": "1200 واط",
+      "الشعيرات": "شعر نايلون مع مشط غير متشابك",
+      "الأيونات": "Negative Ion Generator"
+    },
+    "pros": [
+      "تغني عن الاستشوار والمكواة معاً",
+      "سهلة الاستخدام للفتيات",
+      "سعر مناسب جداً"
+    ],
+    "cons": [
+      "حجم الرأس عريض"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-101",
+    "name": "ماكينة حلاقة جيليت بروجليد تشيل مع شفرات إضافية",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "تقنية FlexBall للتكيف مع زوايا الوجه مع شريط ترطيب تبريد الخيار.",
+    "longDescription": "Gillette ProGlide Chill تمنحك حلاقة ناعمة جداً مع تقليل شد البشرة والالتهابات أثناء الحلاقة اليومية.",
+    "price": 850,
+    "originalPrice": 1050,
+    "discountPercent": 19,
+    "rating": 4.7,
+    "reviewsCount": 113,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الشفرات": "5 شفرات مضادة للاحتكاك",
+      "المقبض": "FlexBall Handle",
+      "المحتوى": "مقبض + 4 شفرات"
+    },
+    "pros": [
+      "نعومة فائقة وسهولة حلاقة",
+      "شريط تبريد يقلل الاحمرار",
+      "مقبض مريح لا ينزلق"
+    ],
+    "cons": [
+      "الشفرات تحتاج تغيير دوري"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-102",
+    "name": "ماكينة حلاقة الذقن باناسونيك لا مبدا 3 شفرات",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "موتور خطي سيع 13000 دورة بالدقيقة وحساس ذكي لكثافة شعر الذقن.",
+    "longDescription": "Panasonic ES-LT2N اليابانية تضمن لك حلاقة جافة وسريعة بدون تهيج للجلد حتى مع الذقن الكثيفة.",
+    "price": 4800,
+    "originalPrice": 5500,
+    "discountPercent": 13,
+    "rating": 4.9,
+    "reviewsCount": 168,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "عرض خاص",
+    "specs": {
+      "الموتور": "13000 cpm Linear Motor",
+      "الشفرات": "3 شفرات يابانية حادة 30°",
+      "الشحن": "ساعة واحدة"
+    },
+    "pros": [
+      "حلاقة فائقة السرعة بدون ألم",
+      "موتور ياباني خطي قوي",
+      "شاشة إنديكاتور للبطارية"
+    ],
+    "cons": [
+      "قاعدة الشحن تباع منفصلة"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-103",
+    "name": "جهاز تنظيف البشرة فوريو لونا 4 السيليكون الفائق",
+    "image": "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "نبضات T-Sonic لتنظيف 99.5% من الأوساخ والزيوت وبقايا المكياج.",
+    "longDescription": "FOREO LUNA 4 المصنوعة من السيليكون الطبي تنظف المسام بأسلوب لطيف وتنشط الدورة الدموية للبشرة.",
+    "price": 8500,
+    "originalPrice": 9600,
+    "discountPercent": 11,
+    "rating": 4.5,
+    "reviewsCount": 407,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "صفقة اليوم",
+    "specs": {
+      "المادة": "Ultra-hygienic Silicone",
+      "النبضات": "T-Sonic Pulsations",
+      "البطارية": "600 استخدام للشحنة"
+    },
+    "pros": [
+      "نظافة وتألق فوري للبشرة",
+      "سيليكون آمن يمنع تراكم البكتيريا",
+      "بطارية تدوم شهوراً"
+    ],
+    "cons": [
+      "السعر مرتفع"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-104",
+    "name": "جهاز ليزر ملاي T3 إزالة الشعر المنزلي",
+    "image": "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "500,000 ومضة ضوئية IPL مع 5 مستويات طاقة لجميع مناطق الجسم.",
+    "longDescription": "جهاز Mlay T3 الموصى به من خبيرات التجميل يمنحك التخلص الدائم من شعر الجسم بدون ألم بالمنزل.",
+    "price": 5200,
+    "originalPrice": 6000,
+    "discountPercent": 13,
+    "rating": 4.9,
+    "reviewsCount": 331,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Amazon Egypt",
+    "badge": "شحن مجاني",
+    "specs": {
+      "الومضات": "500,000 Flash",
+      "التقنية": "IPL Intense Pulsed Light",
+      "الملحقات": "عدسة جسم + عدسة وجه"
+    },
+    "pros": [
+      "توفير هيل مقارنة بجلسات العيادات",
+      "نتائج ملموسة من الجلسة الثالثة",
+      "سهل وآمن للاستخدام"
+    ],
+    "cons": [
+      "يحتاج الالتزام بالجدول الأسبوعي"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-105",
+    "name": "جهاز تدليك الجسم جرافيتي بالاهتزاز العميق",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "مسدس تدليك العضلات Massage Gun مع 6 رؤوس و30 سرعة اهتزاز.",
+    "longDescription": "يساعدك جهاز التدليك على تخفيف آلام الشد العضلي والظهر بعد التمرين أو العمل المكتبي الطويل.",
+    "price": 1850,
+    "originalPrice": 2200,
+    "discountPercent": 16,
+    "rating": 4.6,
+    "reviewsCount": 344,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": true,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "توفير ممتاز",
+    "specs": {
+      "السرعات": "30 Speed Levels",
+      "الرؤوس": "6 Interchangeable Heads",
+      "البطارية": "4 ساعات"
+    },
+    "pros": [
+      "راحة فورية للشد العضلي والظهر",
+      "رؤوس متنوعة لكل عضلات الجسم",
+      "شاشة لمس ديجيتال"
+    ],
+    "cons": [
+      "يحتاج مسك قوي باليد أثناء السرعات العالية"
+    ],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "prod-106",
+    "name": "ماكينة حلاقة كيمي الترا 1949 الهيكل المعدني",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "description": "هيكل ألومنيوم كامل ذهبي بشفرات T-Blade لتحديد الذقن والشعر صفر.",
+    "longDescription": "Kemei KM-1949 المفضل لدى صالونات الحلاقة للتحديد الدقيق للذقن والخطوط وزيرو ناعم للغاية.",
+    "price": 1350,
+    "originalPrice": 1650,
+    "discountPercent": 18,
+    "rating": 4.8,
+    "reviewsCount": 334,
+    "affiliateUrl": "",
+    "category": "Personal Care",
+    "featured": false,
+    "inStock": true,
+    "store": "Jumia Egypt",
+    "badge": "خصم حصري",
+    "specs": {
+      "الموتور": "Heavy Duty Motor",
+      "الشفرة": "Carbon Steel T-Blade",
+      "البطارية": "180 دقيقة USB"
+    },
+    "pros": [
+      "تحديد دقيق جداً كالموس",
+      "هيكل معدني قوي كلاسيكي",
+      "شحن USB سريع"
+    ],
+    "cons": [
+      "صوت الموتور مسموع"
+    ],
+    "createdAt": "2026-08-02"
+  }
+]
